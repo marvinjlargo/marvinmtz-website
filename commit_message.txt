@@ -1,0 +1,12 @@
+Initial setup of personal website structure and content
+
+- Created basic directory structure (css, js, images, pages)
+- Added index.html with main website structure and content sections
+- Created styles.css with basic styling and responsive design
+- Added main.js with navigation, form validation, and animations
+- Included blog-post-1.html template in pages directory
+- Added placeholder image (web-dev-journey.jpg) in images directory
+- Set up README.md file (content to be added later)
+
+This commit establishes the foundation for a personal website with 
+CV, blog, and portfolio sections.
