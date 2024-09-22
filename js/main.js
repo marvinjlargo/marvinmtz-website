@@ -5,10 +5,28 @@ document.addEventListener('DOMContentLoaded', () => {
     
     navLinks.forEach(link => {
         link.addEventListener('click', (e) => {
-            e.preventDefault();
-            const targetId = link.getAttribute('href').substring(1);
-            const targetSection = document.getElementById(targetId);
-            targetSection.scrollIntoView({ behavior: 'smooth' });
+            const href = link.getAttribute('href');
+            
+            // Check if we're on the index page
+            const isIndexPage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+
+            if (href === '#' || href === 'index.html' || href === '../index.html') {
+                if (isIndexPage) {
+                    // If on index page, scroll to top
+                    e.preventDefault();
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                } else {
+                    // If not on index page, allow default behavior (navigate to home)
+                    return;
+                }
+            } else if (href.startsWith('#')) {
+                e.preventDefault();
+                const targetId = href.substring(1);
+                const targetSection = document.getElementById(targetId);
+                if (targetSection) {
+                    targetSection.scrollIntoView({ behavior: 'smooth' });
+                }
+            }
         });
     });
 
