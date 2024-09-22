@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Marvin J. Largo</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../index.html#about">About</a></li>
+                <li><a href="../index.html#projects">Projects</a></li>
+                <li><a href="../index.html#blog">Blog</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="contact-content">
+        <h1>Get in Touch</h1>
+        <p>I'd love to hear from you! Whether you have a question about my work, want to discuss a potential project, or just want to say hello, feel free to reach out.</p>
+
+        <form id="contact-form" action="https://formspree.io/f/your-formspree-endpoint" method="POST">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="_replyto" required>
+            </div>
+
+            <div class="form-group">
+                <label for="subject">Subject:</label>
+                <input type="text" id="subject" name="subject" required>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+            </div>
+
+            <button type="submit" class="cta-button">Send Message</button>
+        </form>
+
+        <div class="contact-info">
+            <h2>Contact Information</h2>
+            <p>Email: <a href="mailto:info@marvinmtz.com">info@marvinmtz.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank">Marvin J. Largo</a></p>
+            <p>Location: Ontario, Canada</p>
+        </div>
+    </main>
+
+    <footer>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.youtube.com/@MarvinMtzWorld" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://github.com/marvinjlargo" target="_blank"><i class="fab fa-github"></i></a>
+        </div>
+        <p>&copy; 2024 Marvin J. Largo | Engineering the Future</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>
