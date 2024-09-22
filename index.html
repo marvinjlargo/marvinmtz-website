@@ -3,79 +3,99 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marvin Martinez - Personal Website</title>
+    <title>Marvin J. Largo | Engineering Innovator</title>
     <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
 </head>
 <body>
     <header>
         <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#cv">CV</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#blog">Blog</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#podcast">Podcast</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
-        <section id="home">
-            <h1>Welcome to Marvin J Largo's Personal Website</h1>
-            <p>Here you'll find information about my professional background, blog posts, and portfolio projects.</p>
+        <section id="hero">
+            <h1>Marvin J. Largo</h1>
+            <h2>Engineering Innovator | Global Perspective</h2>
+            <p>Bridging Worlds Through Precision and Creativity</p>
         </section>
 
-        <section id="cv">
-            <h2>Curriculum Vitae</h2>
-            <h3>Education</h3>
-            <p>Bachelor of Science in Computer Science, University of Example, 2020</p>
-            <h3>Work Experience</h3>
-            <p>Junior Web Developer, Tech Company Inc., 2020-Present</p>
-            <h3>Skills</h3>
-            <ul>
-                <li>HTML, CSS, JavaScript</li>
-                <li>Python, Java</li>
-                <li>Git, GitHub</li>
-            </ul>
-        </section>
-
-        <section id="blog">
-            <h2>Blog</h2>
-            <article>
-                <h3>My Journey in Web Development</h3>
-                <p>Posted on: September 21, 2024</p>
-                <p>Summary: In this post, I share my experiences learning web development and some valuable lessons I've picked up along the way.</p>
-                <a href="pages/blog-post-1.html">Read more</a>
-            </article>
-        </section>
-
-        <section id="portfolio">
-            <h2>Portfolio</h2>
-            <div class="project">
-                <h3>Personal Website</h3>
-                <p>This very website you're viewing! Built with HTML, CSS, and JavaScript.</p>
+        <section id="featured">
+            <h2>Featured Content</h2>
+            <div class="featured-grid">
+                <div class="featured-item">
+                    <img src="images/featured-1.jpg" alt="Featured Project">
+                    <h3>Innovative Estimation at Coreslab</h3>
+                    <p>Revolutionizing project bidding with precision and foresight</p>
+                    <a href="#" class="read-more">Read More</a>
+                </div>
+                <div class="featured-item">
+                    <img src="images/featured-2.jpg" alt="Featured Blog Post">
+                    <h3>The Future of Construction in a Digital World</h3>
+                    <p>Exploring how AI and machine learning are reshaping the construction landscape</p>
+                    <a href="#" class="read-more">Read More</a>
+                </div>
+                <div class="featured-item">
+                    <img src="images/featured-3.jpg" alt="Featured Podcast">
+                    <h3>Engineering Across Borders</h3>
+                    <p>A discussion on applying engineering principles in diverse global contexts</p>
+                    <a href="#" class="read-more">Listen Now</a>
+                </div>
             </div>
         </section>
 
-        <section id="contact">
-            <h2>Contact Me</h2>
-            <form id="contact-form">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required>
+        <section id="about">
+            <h2>About Marvin</h2>
+            <p>Civil Engineer turned Construction Estimator, I bridge the gap between traditional engineering and innovative project management. With a journey that spans from Colombia to Canada, I bring a unique global perspective to every project.</p>
+            <a href="#" class="read-more">Full Bio</a>
+        </section>
 
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
+        <section id="blog">
+            <h2>Latest Posts</h2>
+            <div class="blog-grid">
+                <article>
+                    <h3>Sustainable Development in Urban Spaces</h3>
+                    <p>Exploring eco-friendly construction techniques for modern cities</p>
+                    <a href="#" class="read-more">Read More</a>
+                </article>
+                <article>
+                    <h3>The Impact of BIM on Construction Estimation</h3>
+                    <p>How Building Information Modeling is revolutionizing project planning</p>
+                    <a href="#" class="read-more">Read More</a>
+                </article>
+                <article>
+                    <h3>From Colombia to Canada: An Engineer's Journey</h3>
+                    <p>Personal reflections on adapting to new construction paradigms</p>
+                    <a href="#" class="read-more">Read More</a>
+                </article>
+            </div>
+            <a href="#" class="view-all">View All Posts</a>
+        </section>
 
-                <label for="message">Message:</label>
-                <textarea id="message" name="message" required></textarea>
-
-                <button type="submit">Send Message</button>
+        <section id="newsletter">
+            <h2>Join the Innovation Journey</h2>
+            <p>Get the latest insights on construction innovation, project management tips, and global engineering perspectives.</p>
+            <form id="newsletter-form">
+                <input type="email" placeholder="Your email address" required>
+                <button type="submit">Subscribe</button>
             </form>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2024 Marvin J. Largo. All rights reserved.</p>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.youtube.com/@MarvinMtzWorld" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://github.com/marvinjlargo" target="_blank"><i class="fab fa-github"></i></a>
+        </div>
+        <p>&copy; 2024 Marvin J. Largo | Engineering the Future</p>
     </footer>
 
     <script src="js/main.js"></script>
