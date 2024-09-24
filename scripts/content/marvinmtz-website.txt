@@ -1,0 +1,1819 @@
+Directory Tree:
+marvinmtz-website/
+    index.html
+    .DS_Store
+    Icon
+    CNAME
+    README.md
+    css/
+        styles.css
+    images/
+        .DS_Store
+        profile-picture.jpg
+        the-latency-of-scientific-knowledge/
+            antikythera-mechanism.jpg
+            Herons-steam-engine.png
+            .DS_Store
+            da-vincis-helicopter.png
+            image_rights.txt
+            roman-concrete.jpg
+        project-images/
+            .DS_Store
+            colombia-development.jpg
+    js/
+        main.js
+    projects/
+        .DS_Store
+        3d-model-viewer/
+            viewer.js
+        beam-calculator/
+            calculator.js
+    blog/
+        .DS_Store
+        the-latency-of-scientific-knowledge.html
+    scripts/
+        .DS_Store
+        blog_post_creator.py
+        main.py
+        deploy/
+            .DS_Store
+        content/
+            .DS_Store
+            marvinmtz-website.txt
+            generate_website_content.py
+        utils/
+        git/
+            git-commit.py
+            .DS_Store
+    .git/
+        .DS_Store
+        ORIG_HEAD
+        config
+        HEAD
+        description
+        index
+        packed-refs
+        COMMIT_EDITMSG
+        FETCH_HEAD
+        filter-repo/
+            suboptimal-issues
+            commit-map
+            already_ran
+            ref-map
+        objects/
+            .DS_Store
+            92/
+                63569877e881fbd181f48259c445b3460591a4
+                8fce9446b819b4db837fa592baa232b1666759
+            57/
+                2b62865b3fd8931bc8643fad216488e41b6825
+            3b/
+                4e1419d410f6378c3c89bfc37ca61ed2045552
+            9e/
+                7983e81a4048934a579545044e4650f1213ffa
+            6a/
+                6edba5e9a7d902e6fca13e5b2ea7f236880b78
+            35/
+                5461b6716c731eb0182db6f0c84b098d560d4f
+            69/
+                ff67a7f4e245aac5aff44f52096ca070d29755
+            67/
+                fab386312e0fc215996170b9da5fba78bf123b
+            a3/
+                c1a06ced7eba5548a7fcd186893a9f8d8e53c0
+            d9/
+                f8214e9d079278a6d500a653b4d80f98bdada8
+            a2/
+                a93fbb907b38fc0ae729f5b3a56696cba72fce
+            e5/
+                9425914b7e8c821b6a7a57574dfa2e8abb6117
+            e2/
+                fcc6a46c33bd806ef0f26b512dca7996f57bf2
+            c0/
+                19ceb52e67e1f6aca26c2239d91cc6fcff9935
+            c1/
+                aec97f976305a7ce3ef80b5512a0733667ccc3
+            18/
+                5b06164e12f1573cd509f3726b6ad856c0186f
+            pack/
+                pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.idx
+                pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.pack
+            7c/
+                3b11144681c83e915d567517be5c496ab6d887
+            87/
+                8c159be1b80b4ee0ebc454292338ec36e559cc
+            74/
+                a6e84bc810b2872571b0f283613c2a66214924
+            7b/
+                b5a66e2728fce5f20dedab0a1c496563541fab
+            8f/
+                dcba6b40ea984aa8e5d48ea6aab25393c3759f
+            75/
+                5b430640a178e14a4fd095b428bf037bc058e7
+            44/
+                15c3312242d5ba22a8ab23f472ba7a2f589261
+                acae277724fb4e7a9b6e377958704eddefbb4f
+            2f/
+                0e3149958f6aba6b8fb9d6c3980235c5ed4b03
+            43/
+                2cc45d0a01e1235d84e776ff9b179b3f7bd601
+            88/
+                9b4269da5d9e0dcba171373a1d79f8d00df7af
+                8687a7afb6fc0763f10c7274a6e3b04a64be43
+            9a/
+                43eb99471e149a5e2003ab42588ea38f921ea5
+            09/
+                c1fbd210c02ced3e390ecbe19ea7cda087c29f
+            info/
+                commit-graph
+                packs
+            96/
+                de0e7e3d7c83dbf59d79000d6beba9f776f9ee
+                67a4e60f7e8c1bcab336486b443afb2f156e37
+            98/
+                a014aeb428a99ba3c6060fc7c372466b4fe63e
+            30/
+                ce7b4129fc24cfabf2d07d4b6e8d322a954ae8
+                abf2b950abbf6c5ad5962f6c2fe1214e668eff
+            6c/
+                903c333bef959d677d285f5d532197e5645442
+            55/
+                6d75c2ca250aca203019861e7338149d6ece3f
+            64/
+                155e0967155e01e31aecd988b00ed2cffeecef
+            d3/
+                62d45ba147ee3f66e98edb75fda5ff2f7e2b06
+            db/
+                faa416c5063b7b1721a1170ccaab651b68271a
+            de/
+                398a7459e8bec8d80332a09c2060448114a3d5
+            a1/
+                8430f418477c7a6d0f0fdfcbf005f5b17cc16c
+            c3/
+                2b4798a5f498090db8f75ec97d30bab76611b7
+            c5/
+                07e39c50a97c54b04c8e70d68634d4ec591414
+            f6/
+                6c9a7f7deb413e8ad1e9ae88f3b7ebbc198f50
+            f1/
+                aafc9c90f12d6f996a7e278feb5f36120a5f69
+            1e/
+                7030dc1a2f3b55c2302cfc65c46ff748858461
+                b9b5b0d0d5cceb02519f58006ce171180e86b2
+            24/
+                b70b9b230d8bd0fccb699996fa776a52a27d9c
+                0806ffbf0a76fe8d5329c639950bcb03cdef55
+                9a0b5ea0946b087e92d10f4ad2eb03abbb9eea
+            12/
+                6b278a19ad1ad2e85b7444f8648667c7eafbb3
+            71/
+                f06f299d1fb91c4929a9e0d828107bfbf57395
+            78/
+                01c93c3b4a76e1dba0476b765756bc64715590
+            14/
+                50456bc7a0adc391a57910fdd6431836913d68
+        info/
+            exclude
+            refs
+        logs/
+            .DS_Store
+            HEAD
+            refs/
+                heads/
+                    main
+                remotes/
+                    origin/
+                        main
+        hooks/
+            commit-msg.sample
+            pre-rebase.sample
+            pre-commit.sample
+            applypatch-msg.sample
+            fsmonitor-watchman.sample
+            pre-receive.sample
+            prepare-commit-msg.sample
+            post-update.sample
+            pre-merge-commit.sample
+            pre-applypatch.sample
+            pre-push.sample
+            update.sample
+            push-to-checkout.sample
+        refs/
+            .DS_Store
+            heads/
+                main
+            tags/
+            remotes/
+                origin/
+                    main
+    pages/
+        resume.html
+        .DS_Store
+        contact.html
+
+File: index.html
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/index.html
+Content:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarvinMTZ | Engineering Innovator</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="brand">MarvinMTZ</div>
+            <ul class="nav-menu">
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="pages/contact.html">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero" class="section">
+            <h1>MarvinMTZ</h1>
+            <h2>Engineering Innovator</h2>
+            <p>Bridging Construction Through Creativity</p>
+        </section>
+
+        <section id="featured" class="section">
+            <h2>Featured Work</h2>
+            <div class="featured-grid">
+              <div class="featured-item">
+                <div class="media-container video-container">
+                  <iframe src="https://www.youtube.com/embed/_6Q_ZEy7vkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="featured-content">
+                  <h3>Estimation in Canada</h3>
+                  <p>Project bidding with precision and foresight</p>
+                </div>
+              </div>
+              <div class="featured-item">
+                <div class="media-container image-container">
+                  <img src="images/project-images/colombia-development.jpg" alt="Colombia Development">
+                </div>
+                <div class="featured-content">
+                  <h3>Sustainable Development in Colombia</h3>
+                  <p>Blending traditional techniques with modern sustainability practices</p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+        <section id="about" class="section about">
+            <div class="container">
+                <h2>About Marvin</h2>
+                <div class="about-content">
+                    <img src="images/profile-picture.jpg" alt="Marvin J. Largo" class="profile-picture">
+                    <div class="about-text">
+                        <p>👷🏻‍♂️ <strong>Hello! I'm Marvin J. Largo, a skilled Colombian Civil Engineer based in Ontario, Canada.</strong> With experience in construction estimation and project management, I specialize in translating complex project requirements into actionable plans. Fluent in English, Spanish, and conversational in French, I'm dedicated to delivering projects on time and within budget, while ensuring the highest standards of quality and efficiency.</p>
+                        
+                        <p>🏗️ With over five years of expertise in construction, I specialize in making complex plans both efficient and standout. My passion extends beyond the technical aspects of engineering—I thrive on continuous learning and actively engage in volunteer work. Whether it's delving into the latest design innovations or participating in community projects, I'm all about turning challenges into opportunities with a dash of fun.</p>
+                        
+                        <a href="pages/resume.html" class="cta-button">View Full Resume</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="blog" class="section">
+            <h2>Latest Insights</h2>
+            <div class="blog-grid">
+                <article>
+                    <h3>The Latency of Scientific Knowledge and Technological Application</h3>
+                    <p>Explores how scientific advancements often take decades or even centuries before practical applications are realized</p>
+                    <a href="blog/the-latency-of-scientific-knowledge.html" class="read-more">Read More</a>
+                </article>
+
+            </div>
+
+        </section>
+
+        <section id="contact" class="section">
+            <h2>Let's Connect</h2>
+            <p>Interested in collaborating or just want to say hello? I'd love to hear from you!</p>
+            <a href="pages/contact.html" class="cta-button">Get in Touch</a>
+        </section>
+    </main>
+
+    <footer>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.youtube.com/@MarvinMtzWorld" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://github.com/marvinjlargo" target="_blank"><i class="fab fa-github"></i></a>
+        </div>
+        <p>&copy; 2024 Marvin J. Largo | Engineering the Future</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
+
+==================================================
+
+File: .DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: Icon
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/Icon
+(Binary file or unsupported format)
+
+==================================================
+
+File: CNAME
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/CNAME
+(Binary file or unsupported format)
+
+==================================================
+
+File: README.md
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/README.md
+Content:
+# Marvin J. Largo - Personal Website
+
+This is the personal website project for Marvin J. Largo.
+
+==================================================
+
+File: css/styles.css
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/css/styles.css
+Content:
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Header and navigation */
+header {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-toggle {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.nav-menu {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-menu li {
+    margin-left: 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 5px;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    background-color: #3498db;
+    color: white;
+}
+
+/* Main content */
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section {
+    margin-bottom: 4rem;
+}
+
+h1, h2, h3 {
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #34495e;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #7f8c8d;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+/* Hero section */
+#hero {
+    text-align: center;
+    padding: 4rem 0;
+}
+
+/* Featured work section */
+.featured-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.featured-item {
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.featured-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.video-container,
+.image-container {
+    position: relative;
+    width: 100%;
+    padding-top: 177.78%; /* Maintaining the original aspect ratio */
+    overflow: hidden;
+}
+
+.video-container iframe,
+.image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.featured-item h3 {
+    margin: 1rem 1rem 0.5rem;
+    color: #2c3e50;
+}
+
+.featured-item p {
+    margin: 0 1rem 1rem;
+    color: #7f8c8d;
+    font-size: 0.9rem;
+}
+
+/* About section */
+.about-content {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* Blog section */
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+/* Buttons and links */
+.cta-button, .read-more, .view-all {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover, .read-more:hover, .view-all:hover {
+    background-color: #2980b9;
+}
+
+/* Footer */
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.social-links a {
+    color: #333;
+    font-size: 1.5rem;
+    margin: 0 0.5rem;
+}
+
+/* Contact form styles */
+.contact-content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group textarea {
+    height: 150px;
+}
+
+.contact-info {
+    margin-top: 2rem;
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+/* Adjust the existing cta-button styles for the form submit button */
+form .cta-button {
+    border: none;
+    cursor: pointer;
+}
+
+form .cta-button:hover {
+    background-color: #2980b9;
+}
+
+/* Article styles */
+article {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+    border-radius: 5px;
+}
+
+.image-source {
+    font-size: 0.9em;
+    color: #666;
+    text-align: right;
+    margin-top: 0.5rem;
+}
+/* Header and navigation */
+header {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #3498db;
+}
+
+.nav-menu {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-menu li {
+    margin-left: 1rem;
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 5px;
+}
+
+.nav-menu a:hover,
+.nav-menu a.active {
+    background-color: #3498db;
+    color: white;
+}
+
+.hamburger {
+    display: none;
+    cursor: pointer;
+}
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    transition: all 0.3s ease-in-out;
+    background-color: #333;
+}
+
+@media screen and (max-width: 768px) {
+    .nav-menu {
+        position: fixed;
+        left: -100%;
+        top: 4rem;
+        flex-direction: column;
+        background-color: #f4f4f4;
+        width: 100%;
+        text-align: center;
+        transition: 0.3s;
+        box-shadow: 0 10px 27px rgba(0, 0, 0, 0.05);
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .nav-menu li {
+        margin: 2.5rem 0;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .hamburger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .hamburger.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+}
+
+==================================================
+
+File: images/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/profile-picture.jpg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/profile-picture.jpg
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/the-latency-of-scientific-knowledge/antikythera-mechanism.jpg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/the-latency-of-scientific-knowledge/antikythera-mechanism.jpg
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/the-latency-of-scientific-knowledge/Herons-steam-engine.png
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/the-latency-of-scientific-knowledge/Herons-steam-engine.png
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/the-latency-of-scientific-knowledge/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/the-latency-of-scientific-knowledge/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/the-latency-of-scientific-knowledge/da-vincis-helicopter.png
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/the-latency-of-scientific-knowledge/da-vincis-helicopter.png
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/the-latency-of-scientific-knowledge/image_rights.txt
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/the-latency-of-scientific-knowledge/image_rights.txt
+Content:
+
+Source: https://en.wikipedia.org/wiki/Pantheon,_Rome
+
+
+Source: https://en.wikipedia.org/wiki/Antikythera_mechanism
+
+Source: https://en.wikipedia.org/wiki/Aeolipile
+
+
+Source: http://www.pathfindersdesignandtechnology.com/portfolio-item/da-vinci-helicopter/
+
+
+
+==================================================
+
+File: images/the-latency-of-scientific-knowledge/roman-concrete.jpg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/the-latency-of-scientific-knowledge/roman-concrete.jpg
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/project-images/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/project-images/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/project-images/colombia-development.jpg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/project-images/colombia-development.jpg
+(Binary file or unsupported format)
+
+==================================================
+
+File: js/main.js
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/js/main.js
+Content:
+document.addEventListener('DOMContentLoaded', () => {
+    const hamburger = document.querySelector(".hamburger");
+    const navMenu = document.querySelector(".nav-menu");
+
+    hamburger.addEventListener("click", () => {
+        hamburger.classList.toggle("active");
+        navMenu.classList.toggle("active");
+    })
+
+    document.querySelectorAll(".nav-menu li a").forEach(n => n.addEventListener("click", () => {
+        hamburger.classList.remove("active");
+        navMenu.classList.remove("active");
+    }))
+
+    // Existing smooth scrolling functionality
+    const navLinks = document.querySelectorAll('nav a');
+    
+    navLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+            const href = link.getAttribute('href');
+            
+            const isIndexPage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+
+            if (href === '#' || href === 'index.html' || href === '../index.html') {
+                if (isIndexPage) {
+                    e.preventDefault();
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                } else {
+                    return;
+                }
+            } else if (href.startsWith('#')) {
+                e.preventDefault();
+                const targetId = href.substring(1);
+                const targetSection = document.getElementById(targetId);
+                if (targetSection) {
+                    targetSection.scrollIntoView({ behavior: 'smooth' });
+                }
+            }
+
+            // Close menu after clicking a link (for mobile)
+            navMenu.classList.remove('active');
+            hamburger.classList.remove('active');
+        });
+    });
+
+    // Contact form validation and submission
+    const contactForm = document.getElementById('contact-form');
+
+    if (contactForm) {
+        contactForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            const name = contactForm.querySelector('#name').value.trim();
+            const email = contactForm.querySelector('#email').value.trim();
+            const message = contactForm.querySelector('#message').value.trim();
+            
+            if (name && email && message) {
+                console.log('Form submitted:', { name, email, message });
+                alert('Thank you for your message! I\'ll get back to you soon.');
+                contactForm.reset();
+            } else {
+                alert('Please fill in all fields.');
+            }
+        });
+    }
+
+    // Section header animation
+    const sectionHeaders = document.querySelectorAll('section > h2');
+
+    sectionHeaders.forEach(header => {
+        header.style.opacity = '0';
+        header.style.transition = 'opacity 0.5s ease-in-out';
+
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    setTimeout(() => {
+                        entry.target.style.opacity = '1';
+                    }, 300);
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.1 });
+
+        observer.observe(header);
+    });
+});
+
+==================================================
+
+File: projects/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/projects/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: projects/3d-model-viewer/viewer.js
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/projects/3d-model-viewer/viewer.js
+Content:
+
+
+==================================================
+
+File: projects/beam-calculator/calculator.js
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/projects/beam-calculator/calculator.js
+Content:
+
+
+==================================================
+
+File: blog/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/blog/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: blog/the-latency-of-scientific-knowledge.html
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/blog/the-latency-of-scientific-knowledge.html
+Content:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Latency of Scientific Knowledge and Technological Application | Marvin J. Largo</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../index.html#about">About</a></li>
+                <li><a href="../index.html#blog">Blog</a></li>
+                <li><a href="../pages/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h1>The Latency of Scientific Knowledge and Technological Application</h1>
+            <p>By Marvin J. Largo | Published: September 22, 2024</p>
+
+            <section id="introduction" class="section introduction">
+                <h2>Introduction</h2>
+                <p>The relationship between theoretical advancements and their practical applications often spans decades, centuries, or even millennia. Historical examples demonstrate that theoretical insights and inventions can precede their practical utilization by significant time periods. This article explores several instances of such latency, reinforcing the argument that contemporary theoretical physics, despite seeming impractical now, may lead to groundbreaking applications in the future.</p>
+            </section>
+
+            <section id="case-studies" class="section case-studies">
+                <h2>Case Studies of Delayed Application</h2>
+
+                <h3>1. Roman Concrete</h3>
+                <p>The Romans developed a form of concrete known for its durability around the 3rd century BCE. However, after the fall of the Roman Empire, this knowledge was lost. It wasn't until modern research in the 20th century that Roman concrete's unique properties, particularly its ability to withstand harsh marine environments, were rediscovered. Today, this ancient technology is being studied for use in sustainable construction materials.</p>
+                <img src="../images/the-latency-of-scientific-knowledge/roman-concrete.jpg" alt="Roman Concrete" style="width:100%; height:auto;">
+                <p class="image-source">Source: <a href="https://en.wikipedia.org/wiki/Pantheon,_Rome" target="_blank">Wikipedia - Pantheon, Rome</a></p>
+
+                <h3>2. The Antikythera Mechanism</h3>
+                <p>The Antikythera mechanism, an ancient Greek analog computer used to predict astronomical positions and eclipses, dates back to around 100 BCE. Rediscovered in a shipwreck in 1901, its complexity wasn't fully understood until the 20th century. Its sophisticated design was ahead of its time, with modern mechanical devices only catching up during the 14th to 16th centuries.</p>
+                <img src="../images/the-latency-of-scientific-knowledge/antikythera-mechanism.jpg" alt="Antikythera Mechanism" style="width:100%; height:auto;">
+                <p class="image-source">Source: <a href="https://en.wikipedia.org/wiki/Antikythera_mechanism" target="_blank">Wikipedia - Antikythera mechanism</a></p>
+
+                <h3>3. Heron's Steam Engine (Aeolipile)</h3>
+                <p>Heron of Alexandria described the aeolipile in the 1st century CE, demonstrating how steam pressure could convert into mechanical motion. Practical use of steam power, however, didn't come until over 1,600 years later, during the Industrial Revolution, where it transformed industries.</p>
+                <img src="../images/the-latency-of-scientific-knowledge/Herons-steam-engine.png" alt="Heron's Steam Engine" style="width:100%; height:auto;">
+                <p class="image-source">Source: <a href="https://en.wikipedia.org/wiki/Aeolipile" target="_blank">Wikipedia - Aeolipile</a></p>
+
+                <h3>4. Leonardo da Vinci's Inventions</h3>
+                <p>Leonardo da Vinci sketched numerous ideas centuries ahead of their time, including the aerial screw—a precursor to the modern helicopter. While he drew this concept in 1485, it wasn't until the 20th century that helicopters became a reality.</p>
+                <img src="../images/the-latency-of-scientific-knowledge/da-vincis-helicopter.png" alt="Da Vinci's Helicopter" style="width:100%; height:auto;">
+                <p class="image-source">Source: <a href="http://www.pathfindersdesignandtechnology.com/portfolio-item/da-vinci-helicopter/" target="_blank">Pathfinders Design and Technology</a></p>
+            </section>
+
+            <section id="modern-applications" class="section modern-applications">
+                <h2>Modern Case Studies of Delayed Application</h2>
+                <h3>1. Quantum Mechanics</h3>
+                <p>Quantum mechanics, developed in the early 20th century by scientists such as Max Planck and Albert Einstein, laid the groundwork for modern technologies like semiconductors, transistors, and quantum computing—decades after the theoretical foundations were first established.</p>
+
+                <h3>2. General Relativity</h3>
+                <p>Formulated by Albert Einstein in 1915, general relativity's practical applications weren't fully realized until the advent of technologies like GPS, which require its precision for accurate location tracking.</p>
+
+                <h3>3. CRISPR-Cas9</h3>
+                <p>First described in the late 1980s and early 1990s, CRISPR-Cas9 became a revolutionary tool for genetic engineering in the 2010s, changing medicine, agriculture, and biotechnology forever.</p>
+            </section>
+
+            <section id="future-potential" class="section future-potential">
+                <h2>Future Potential: Particle Accelerators and Element Creation</h2>
+                <p>Theoretical advancements in particle physics, particularly involving high-energy particle accelerators like the Large Hadron Collider (LHC) at CERN, hold immense potential for the future. Ongoing research in creating new elements and isotopes, or even replicating the processes powering stars through nuclear fusion, could revolutionize materials science and energy production.</p>
+            </section>
+
+            <section id="conclusion" class="section conclusion">
+                <h2>Conclusion</h2>
+                <p>Historical and contemporary examples illustrate the significant gaps that often exist between the discovery of scientific principles and their practical application. As seen with quantum mechanics, general relativity, and CRISPR, what may seem theoretical today could lead to transformative technologies tomorrow. Keeping a long-term perspective on scientific research is crucial for fostering innovation and progress.</p>
+            </section>
+        </article>
+    </main>
+
+    <footer>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.youtube.com/@MarvinMtzWorld" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://github.com/marvinjlargo" target="_blank"><i class="fab fa-github"></i></a>
+        </div>
+        <p>&copy; 2024 Marvin J. Largo | All Rights Reserved</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>
+
+==================================================
+
+File: scripts/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/scripts/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: scripts/blog_post_creator.py
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/scripts/blog_post_creator.py
+(Binary file or unsupported format)
+
+==================================================
+
+File: scripts/main.py
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/scripts/main.py
+(Binary file or unsupported format)
+
+==================================================
+
+File: scripts/deploy/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/scripts/deploy/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: scripts/content/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/scripts/content/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: scripts/content/generate_website_content.py
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/scripts/content/generate_website_content.py
+(Binary file or unsupported format)
+
+==================================================
+
+File: scripts/git/git-commit.py
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/scripts/git/git-commit.py
+(Binary file or unsupported format)
+
+==================================================
+
+File: scripts/git/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/scripts/git/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/ORIG_HEAD
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/ORIG_HEAD
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/config
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/config
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/HEAD
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/HEAD
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/description
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/description
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/index
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/index
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/packed-refs
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/packed-refs
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/COMMIT_EDITMSG
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/COMMIT_EDITMSG
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/FETCH_HEAD
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/FETCH_HEAD
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/filter-repo/suboptimal-issues
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/filter-repo/suboptimal-issues
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/filter-repo/commit-map
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/filter-repo/commit-map
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/filter-repo/already_ran
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/filter-repo/already_ran
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/filter-repo/ref-map
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/filter-repo/ref-map
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/92/63569877e881fbd181f48259c445b3460591a4
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/92/63569877e881fbd181f48259c445b3460591a4
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/92/8fce9446b819b4db837fa592baa232b1666759
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/92/8fce9446b819b4db837fa592baa232b1666759
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/57/2b62865b3fd8931bc8643fad216488e41b6825
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/57/2b62865b3fd8931bc8643fad216488e41b6825
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/3b/4e1419d410f6378c3c89bfc37ca61ed2045552
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/3b/4e1419d410f6378c3c89bfc37ca61ed2045552
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/9e/7983e81a4048934a579545044e4650f1213ffa
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/9e/7983e81a4048934a579545044e4650f1213ffa
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/6a/6edba5e9a7d902e6fca13e5b2ea7f236880b78
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/6a/6edba5e9a7d902e6fca13e5b2ea7f236880b78
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/35/5461b6716c731eb0182db6f0c84b098d560d4f
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/35/5461b6716c731eb0182db6f0c84b098d560d4f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/69/ff67a7f4e245aac5aff44f52096ca070d29755
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/69/ff67a7f4e245aac5aff44f52096ca070d29755
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/67/fab386312e0fc215996170b9da5fba78bf123b
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/67/fab386312e0fc215996170b9da5fba78bf123b
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/a3/c1a06ced7eba5548a7fcd186893a9f8d8e53c0
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a3/c1a06ced7eba5548a7fcd186893a9f8d8e53c0
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d9/f8214e9d079278a6d500a653b4d80f98bdada8
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d9/f8214e9d079278a6d500a653b4d80f98bdada8
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/a2/a93fbb907b38fc0ae729f5b3a56696cba72fce
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a2/a93fbb907b38fc0ae729f5b3a56696cba72fce
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/e5/9425914b7e8c821b6a7a57574dfa2e8abb6117
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/e5/9425914b7e8c821b6a7a57574dfa2e8abb6117
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/e2/fcc6a46c33bd806ef0f26b512dca7996f57bf2
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/e2/fcc6a46c33bd806ef0f26b512dca7996f57bf2
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/c0/19ceb52e67e1f6aca26c2239d91cc6fcff9935
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c0/19ceb52e67e1f6aca26c2239d91cc6fcff9935
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/c1/aec97f976305a7ce3ef80b5512a0733667ccc3
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c1/aec97f976305a7ce3ef80b5512a0733667ccc3
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/18/5b06164e12f1573cd509f3726b6ad856c0186f
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/18/5b06164e12f1573cd509f3726b6ad856c0186f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/pack/pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.idx
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/pack/pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.idx
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/pack/pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.pack
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/pack/pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.pack
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/7c/3b11144681c83e915d567517be5c496ab6d887
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/7c/3b11144681c83e915d567517be5c496ab6d887
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/87/8c159be1b80b4ee0ebc454292338ec36e559cc
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/87/8c159be1b80b4ee0ebc454292338ec36e559cc
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/74/a6e84bc810b2872571b0f283613c2a66214924
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/74/a6e84bc810b2872571b0f283613c2a66214924
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/7b/b5a66e2728fce5f20dedab0a1c496563541fab
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/7b/b5a66e2728fce5f20dedab0a1c496563541fab
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/8f/dcba6b40ea984aa8e5d48ea6aab25393c3759f
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/8f/dcba6b40ea984aa8e5d48ea6aab25393c3759f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/75/5b430640a178e14a4fd095b428bf037bc058e7
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/75/5b430640a178e14a4fd095b428bf037bc058e7
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/44/15c3312242d5ba22a8ab23f472ba7a2f589261
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/44/15c3312242d5ba22a8ab23f472ba7a2f589261
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/44/acae277724fb4e7a9b6e377958704eddefbb4f
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/44/acae277724fb4e7a9b6e377958704eddefbb4f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/2f/0e3149958f6aba6b8fb9d6c3980235c5ed4b03
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/2f/0e3149958f6aba6b8fb9d6c3980235c5ed4b03
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/43/2cc45d0a01e1235d84e776ff9b179b3f7bd601
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/43/2cc45d0a01e1235d84e776ff9b179b3f7bd601
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/88/9b4269da5d9e0dcba171373a1d79f8d00df7af
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/88/9b4269da5d9e0dcba171373a1d79f8d00df7af
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/88/8687a7afb6fc0763f10c7274a6e3b04a64be43
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/88/8687a7afb6fc0763f10c7274a6e3b04a64be43
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/9a/43eb99471e149a5e2003ab42588ea38f921ea5
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/9a/43eb99471e149a5e2003ab42588ea38f921ea5
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/09/c1fbd210c02ced3e390ecbe19ea7cda087c29f
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/09/c1fbd210c02ced3e390ecbe19ea7cda087c29f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/info/commit-graph
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/info/commit-graph
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/info/packs
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/info/packs
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/96/de0e7e3d7c83dbf59d79000d6beba9f776f9ee
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/96/de0e7e3d7c83dbf59d79000d6beba9f776f9ee
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/96/67a4e60f7e8c1bcab336486b443afb2f156e37
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/96/67a4e60f7e8c1bcab336486b443afb2f156e37
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/98/a014aeb428a99ba3c6060fc7c372466b4fe63e
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/98/a014aeb428a99ba3c6060fc7c372466b4fe63e
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/30/ce7b4129fc24cfabf2d07d4b6e8d322a954ae8
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/30/ce7b4129fc24cfabf2d07d4b6e8d322a954ae8
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/30/abf2b950abbf6c5ad5962f6c2fe1214e668eff
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/30/abf2b950abbf6c5ad5962f6c2fe1214e668eff
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/6c/903c333bef959d677d285f5d532197e5645442
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/6c/903c333bef959d677d285f5d532197e5645442
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/55/6d75c2ca250aca203019861e7338149d6ece3f
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/55/6d75c2ca250aca203019861e7338149d6ece3f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/64/155e0967155e01e31aecd988b00ed2cffeecef
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/64/155e0967155e01e31aecd988b00ed2cffeecef
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d3/62d45ba147ee3f66e98edb75fda5ff2f7e2b06
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d3/62d45ba147ee3f66e98edb75fda5ff2f7e2b06
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/db/faa416c5063b7b1721a1170ccaab651b68271a
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/db/faa416c5063b7b1721a1170ccaab651b68271a
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/de/398a7459e8bec8d80332a09c2060448114a3d5
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/de/398a7459e8bec8d80332a09c2060448114a3d5
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/a1/8430f418477c7a6d0f0fdfcbf005f5b17cc16c
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a1/8430f418477c7a6d0f0fdfcbf005f5b17cc16c
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/c3/2b4798a5f498090db8f75ec97d30bab76611b7
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c3/2b4798a5f498090db8f75ec97d30bab76611b7
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/c5/07e39c50a97c54b04c8e70d68634d4ec591414
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c5/07e39c50a97c54b04c8e70d68634d4ec591414
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/f6/6c9a7f7deb413e8ad1e9ae88f3b7ebbc198f50
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/f6/6c9a7f7deb413e8ad1e9ae88f3b7ebbc198f50
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/f1/aafc9c90f12d6f996a7e278feb5f36120a5f69
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/f1/aafc9c90f12d6f996a7e278feb5f36120a5f69
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/1e/7030dc1a2f3b55c2302cfc65c46ff748858461
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/1e/7030dc1a2f3b55c2302cfc65c46ff748858461
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/1e/b9b5b0d0d5cceb02519f58006ce171180e86b2
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/1e/b9b5b0d0d5cceb02519f58006ce171180e86b2
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/24/b70b9b230d8bd0fccb699996fa776a52a27d9c
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/b70b9b230d8bd0fccb699996fa776a52a27d9c
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/24/0806ffbf0a76fe8d5329c639950bcb03cdef55
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/0806ffbf0a76fe8d5329c639950bcb03cdef55
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/24/9a0b5ea0946b087e92d10f4ad2eb03abbb9eea
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/9a0b5ea0946b087e92d10f4ad2eb03abbb9eea
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/12/6b278a19ad1ad2e85b7444f8648667c7eafbb3
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/12/6b278a19ad1ad2e85b7444f8648667c7eafbb3
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/71/f06f299d1fb91c4929a9e0d828107bfbf57395
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/71/f06f299d1fb91c4929a9e0d828107bfbf57395
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/78/01c93c3b4a76e1dba0476b765756bc64715590
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/78/01c93c3b4a76e1dba0476b765756bc64715590
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/14/50456bc7a0adc391a57910fdd6431836913d68
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/14/50456bc7a0adc391a57910fdd6431836913d68
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/info/exclude
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/info/exclude
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/info/refs
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/info/refs
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/logs/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/logs/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/logs/HEAD
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/logs/HEAD
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/logs/refs/heads/main
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/logs/refs/heads/main
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/logs/refs/remotes/origin/main
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/logs/refs/remotes/origin/main
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/commit-msg.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/commit-msg.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/pre-rebase.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/pre-rebase.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/pre-commit.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/pre-commit.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/applypatch-msg.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/applypatch-msg.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/fsmonitor-watchman.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/fsmonitor-watchman.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/pre-receive.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/pre-receive.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/prepare-commit-msg.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/prepare-commit-msg.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/post-update.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/post-update.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/pre-merge-commit.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/pre-merge-commit.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/pre-applypatch.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/pre-applypatch.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/pre-push.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/pre-push.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/update.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/update.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/hooks/push-to-checkout.sample
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/hooks/push-to-checkout.sample
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/refs/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/refs/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/refs/heads/main
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/refs/heads/main
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/refs/remotes/origin/main
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/refs/remotes/origin/main
+(Binary file or unsupported format)
+
+==================================================
+
+File: pages/resume.html
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/pages/resume.html
+Content:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume | Marvin J. Largo</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../index.html#about">About</a></li>
+                <li><a href="../index.html#blog">Blog</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="resume-content">
+        <section class="section resume-header">
+            <h1>Marvin J. Largo</h1>
+            <p><a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank">LinkedIn</a></p>
+        </section>
+
+        <section class="section resume-profile">
+            <h2>Profile</h2>
+            <p>Holder of a Bachelor's degree in Civil Engineering from Colombia, with extensive experience in construction estimation, supply chain management, and project management. Adept in transforming complex project requirements into actionable plans and precise estimates. Dedicated to ensuring on-time and on-budget project completion.</p>
+        </section>
+
+        <section class="section resume-skills">
+            <h2>Relevant Skills</h2>
+            <ul>
+                <li>Expertise in developing accurate project estimates and bid documents.</li>
+                <li>Proficient in coordinating construction material delivery and quality controls.</li>
+                <li>Advanced skills in monthly reporting tools: Google Apps for Work G suite, SAP, Microsoft Excel, and Bluebeam Revu.</li>
+                <li>Skilled in design tools such as AutoCAD 2D, 3D, and CAD for precise project visualization.</li>
+                <li>Multilingual: English and Spanish (fluent), French (working proficiency).</li>
+            </ul>
+        </section>
+
+        <section class="section resume-experience">
+            <h2>Work Experience</h2>
+            
+            <div class="job">
+                <h3>Construction Estimator</h3>
+                <p>Coreslab Structures, Hamilton, ON | March 2023 - Present</p>
+                <ul>
+                    <li>Developed project estimates and bid documents. Approximately 50 million dollars in 2023.</li>
+                    <li>Ensured adherence to safety protocols and environmental guidelines.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Production Scheduler / Scheduling Assistant</h3>
+                <p>Coreslab Structures, Hamilton, ON | April 2022 - March 2023</p>
+                <ul>
+                    <li>Optimized shipping load layouts and coordinated delivery schedules. Approximately 1,000,000 square feet of precast shipped and installed in my year at that role.</li>
+                    <li>Assisted in ordering installation hardware in line with engineering specifications.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Development Manager</h3>
+                <p>Altamira Campestre Developer, San Jose del Guaviare, Colombia | January 2020 - January 2021</p>
+                <ul>
+                    <li>Managed urban and public service planning for luxury country houses spanning 100 acres.</li>
+                    <li>Coordinated with the municipal planning office to streamline permit processes.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section resume-education">
+            <h2>Education</h2>
+            <ul>
+                <li>Google Project Management Certificate, Google | January 2023 - June 2023</li>
+                <li>Graduate Certificate in Supply Chain Management, Mohawk College, Ontario | January 2022 - October 2022</li>
+                <li>Bachelor of Science in Civil Engineering (B.S), Universidad Cooperativa, Colombia | August 2014 - September 2017</li>
+            </ul>
+        </section>
+
+        <section class="section resume-committees">
+            <h2>Committee Membership</h2>
+            <div class="committee">
+                <h3>Property Standards Committee Volunteer Member</h3>
+                <p>City of Hamilton, Hamilton, ON | October 2023 - Present</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.youtube.com/@MarvinMtzWorld" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://github.com/marvinjlargo" target="_blank"><i class="fab fa-github"></i></a>
+        </div>
+        <p>&copy; 2024 Marvin J. Largo | Engineering the Future</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>
+
+==================================================
+
+File: pages/.DS_Store
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/pages/.DS_Store
+(Binary file or unsupported format)
+
+==================================================
+
+File: pages/contact.html
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/pages/contact.html
+Content:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Marvin J. Largo</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../index.html#about">About</a></li>
+                <li><a href="../index.html#blog">Blog</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="contact-content">
+        <h1>Get in Touch</h1>
+        <p>I'd love to hear from you! Whether you have a question about my work, want to discuss a potential project, or just want to say hello, feel free to reach out.</p>
+
+        <form id="contact-form" action="https://formspree.io/f/your-formspree-endpoint" method="POST">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="_replyto" required>
+            </div>
+
+            <div class="form-group">
+                <label for="subject">Subject:</label>
+                <input type="text" id="subject" name="subject" required>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+            </div>
+
+            <button type="submit" class="cta-button">Send Message</button>
+        </form>
+
+        <div class="contact-info">
+            <h2>Contact Information</h2>
+            <p>Email: <a href="mailto:info@marvinmtz.com">info@marvinmtz.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank">Marvin J. Largo</a></p>
+            <p>Location: Ontario, Canada</p>
+        </div>
+    </main>
+
+    <footer>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.youtube.com/@MarvinMtzWorld" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://github.com/marvinjlargo" target="_blank"><i class="fab fa-github"></i></a>
+        </div>
+        <p>&copy; 2024 Marvin J. Largo | Engineering the Future</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>
+
+==================================================
+
