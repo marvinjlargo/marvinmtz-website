@@ -274,10 +274,13 @@ header {
     z-index: 100;
 }
 
+/* Navbar styles */
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 1rem;
+    background-color: #f4f4f4;
 }
 
 .brand {
@@ -289,7 +292,7 @@ header {
 
 .nav-menu {
     display: flex;
-    list-style-type: none;
+    list-style: none;
 }
 
 .nav-menu li {
@@ -321,17 +324,22 @@ header {
     width: 25px;
     height: 3px;
     margin: 5px auto;
-    transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease;
     background-color: #333;
 }
 
-
-@media screen and (min-width: 768px) {
-    .about-content {
-        flex-direction: row;
-        align-items: flex-start;
+@media screen and (max-width: 768px) {
+    .nav-menu {
+        position: fixed;
+        left: -100%;
+        top: 5rem;
+        flex-direction: column;
+        background-color: #f4f4f4;
+        width: 100%;
+        text-align: center;
+        transition: 0.3s;
+        box-shadow: 0 10px 27px rgba(0, 0, 0, 0.05);
     }
-}
 
     .nav-menu.active {
         left: 0;
