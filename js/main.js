@@ -52,11 +52,17 @@ document.addEventListener('DOMContentLoaded', () => {
             
             const name = contactForm.querySelector('#name').value.trim();
             const email = contactForm.querySelector('#email').value.trim();
+            const subject = contactForm.querySelector('#subject').value.trim();
             const message = contactForm.querySelector('#message').value.trim();
             
-            if (name && email && message) {
-                console.log('Form submitted:', { name, email, message });
-                alert('Thank you for your message! I\'ll get back to you soon.');
+            if (name && email && subject && message) {
+                // Construct the mailto link
+                const mailtoLink = `mailto:info@marvinmtz.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`)}`;
+                
+                // Open the user's default email client
+                window.location.href = mailtoLink;
+
+                alert('Thank you for your message! Your default email client should open with a pre-filled email. Please send the email to complete your message submission.');
                 contactForm.reset();
             } else {
                 alert('Please fill in all fields.');

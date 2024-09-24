@@ -148,6 +148,7 @@ p {
 /* About section */
 .about-content {
     display: flex;
+    flex-direction: column;
     align-items: center;
     gap: 2rem;
 }
@@ -157,6 +158,10 @@ p {
     height: 200px;
     border-radius: 50%;
     object-fit: cover;
+}
+
+.about-text {
+    text-align: left;
 }
 
 /* Blog section */
@@ -279,6 +284,7 @@ header {
     font-size: 1.5rem;
     font-weight: bold;
     color: #3498db;
+    text-decoration: none;
 }
 
 .nav-menu {
@@ -319,18 +325,13 @@ header {
     background-color: #333;
 }
 
-@media screen and (max-width: 768px) {
-    .nav-menu {
-        position: fixed;
-        left: -100%;
-        top: 4rem;
-        flex-direction: column;
-        background-color: #f4f4f4;
-        width: 100%;
-        text-align: center;
-        transition: 0.3s;
-        box-shadow: 0 10px 27px rgba(0, 0, 0, 0.05);
+
+@media screen and (min-width: 768px) {
+    .about-content {
+        flex-direction: row;
+        align-items: flex-start;
     }
+}
 
     .nav-menu.active {
         left: 0;
