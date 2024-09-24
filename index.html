@@ -9,13 +9,19 @@
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
+        <nav class="navbar">
+            <div class="brand">MarvinMTZ</div>
+            <ul class="nav-menu">
                 <li><a href="#" class="active">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#blog">Blog</a></li>
                 <li><a href="pages/contact.html">Contact</a></li>
             </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
         </nav>
     </header>
 
@@ -30,18 +36,22 @@
             <h2>Featured Work</h2>
             <div class="featured-grid">
               <div class="featured-item">
-                <div class="video-container">
+                <div class="media-container video-container">
                   <iframe src="https://www.youtube.com/embed/_6Q_ZEy7vkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-                <h3>Estimation in Canada</h3>
-                <p>Project bidding with precision and foresight</p>
+                <div class="featured-content">
+                  <h3>Estimation in Canada</h3>
+                  <p>Project bidding with precision and foresight</p>
+                </div>
               </div>
               <div class="featured-item">
-                <div class="image-container">
+                <div class="media-container image-container">
                   <img src="images/project-images/colombia-development.jpg" alt="Colombia Development">
                 </div>
-                <h3>Sustainable Development in Colombia</h3>
-                <p>Blending traditional techniques with modern sustainability practices</p>
+                <div class="featured-content">
+                  <h3>Sustainable Development in Colombia</h3>
+                  <p>Blending traditional techniques with modern sustainability practices</p>
+                </div>
               </div>
             </div>
           </section>

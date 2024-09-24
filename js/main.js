@@ -1,22 +1,31 @@
-// Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
-    // Dynamic navigation menu
+    const hamburger = document.querySelector(".hamburger");
+    const navMenu = document.querySelector(".nav-menu");
+
+    hamburger.addEventListener("click", () => {
+        hamburger.classList.toggle("active");
+        navMenu.classList.toggle("active");
+    })
+
+    document.querySelectorAll(".nav-menu li a").forEach(n => n.addEventListener("click", () => {
+        hamburger.classList.remove("active");
+        navMenu.classList.remove("active");
+    }))
+
+    // Existing smooth scrolling functionality
     const navLinks = document.querySelectorAll('nav a');
     
     navLinks.forEach(link => {
         link.addEventListener('click', (e) => {
             const href = link.getAttribute('href');
             
-            // Check if we're on the index page
             const isIndexPage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
 
             if (href === '#' || href === 'index.html' || href === '../index.html') {
                 if (isIndexPage) {
-                    // If on index page, scroll to top
                     e.preventDefault();
                     window.scrollTo({ top: 0, behavior: 'smooth' });
                 } else {
-                    // If not on index page, allow default behavior (navigate to home)
                     return;
                 }
             } else if (href.startsWith('#')) {
@@ -27,6 +36,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     targetSection.scrollIntoView({ behavior: 'smooth' });
                 }
             }
+
+            // Close menu after clicking a link (for mobile)
+            navMenu.classList.remove('active');
+            hamburger.classList.remove('active');
         });
     });
 
@@ -42,7 +55,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const message = contactForm.querySelector('#message').value.trim();
             
             if (name && email && message) {
-                // Here you would typically send the form data to a server
                 console.log('Form submitted:', { name, email, message });
                 alert('Thank you for your message! I\'ll get back to you soon.');
                 contactForm.reset();
@@ -52,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Add a simple animation to section headers
+    // Section header animation
     const sectionHeaders = document.querySelectorAll('section > h2');
 
     sectionHeaders.forEach(header => {
