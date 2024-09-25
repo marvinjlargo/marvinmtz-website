@@ -365,3 +365,21 @@ header {
         transform: translateY(-8px) rotate(-45deg);
     }
 }
+/* Podcast section styles */
+.podcast {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.soundcloud-player {
+    margin-top: 15px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.soundcloud-player iframe {
+    display: block;
+    max-width: 100%;
+}
