@@ -62,9 +62,15 @@ marvinmtz-website/
             ref-map
         objects/
             .DS_Store
+            61/
+                1a1715ba497dc4c4ee855d9454df017c2472cb
+            95/
+                277b62923d7c2916d7fcd53c19d074bd313d00
             92/
                 63569877e881fbd181f48259c445b3460591a4
                 8fce9446b819b4db837fa592baa232b1666759
+            68/
+                1da2cc2e3bf33440c0e866ca5376727e27a015
             57/
                 2b62865b3fd8931bc8643fad216488e41b6825
             3b/
@@ -72,6 +78,7 @@ marvinmtz-website/
             9e/
                 7983e81a4048934a579545044e4650f1213ffa
             6a/
+                426f76b214e2a24cc59e2626ac0f48909217da
                 6edba5e9a7d902e6fca13e5b2ea7f236880b78
             35/
                 5461b6716c731eb0182db6f0c84b098d560d4f
@@ -79,27 +86,45 @@ marvinmtz-website/
                 ff67a7f4e245aac5aff44f52096ca070d29755
             67/
                 fab386312e0fc215996170b9da5fba78bf123b
+            94/
+                3aea28712b6e3e9f26bf2b3248de2eb152e7ab
+            60/
+                35121315dc52a1f827b0a5e40079745d0e50d7
+            9d/
+                47a8094ac7ad5f42289ae47d50e146a97f2bc6
+            02/
+                442e4368c33e603ecc141cb3504d7e59e7866d
             a3/
                 c1a06ced7eba5548a7fcd186893a9f8d8e53c0
             d9/
                 f8214e9d079278a6d500a653b4d80f98bdada8
+            df/
+                f666fb7c2838014cdb0528880e5a12e2d8959f
             a2/
                 a93fbb907b38fc0ae729f5b3a56696cba72fce
             e5/
+                407b371da0fa899d93dab522879718400c4773
                 9425914b7e8c821b6a7a57574dfa2e8abb6117
             e2/
                 fcc6a46c33bd806ef0f26b512dca7996f57bf2
             c0/
                 19ceb52e67e1f6aca26c2239d91cc6fcff9935
+            fd/
+                dca6bb38e8a5df4b75ed7c4c35a992fdda1688
             c1/
+                22b0ce249ae62b1fc42ff2a6d4ead97381462a
                 aec97f976305a7ce3ef80b5512a0733667ccc3
             18/
                 5b06164e12f1573cd509f3726b6ad856c0186f
+            27/
+                7e45948fedf2aa385a6e44d73e41bd462a96ef
             pack/
                 pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.idx
                 pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.pack
             7c/
                 3b11144681c83e915d567517be5c496ab6d887
+            73/
+                0d80d3fae49b0f360f12af180229aeda1fd79c
             87/
                 8c159be1b80b4ee0ebc454292338ec36e559cc
             74/
@@ -108,6 +133,8 @@ marvinmtz-website/
                 b5a66e2728fce5f20dedab0a1c496563541fab
             8f/
                 dcba6b40ea984aa8e5d48ea6aab25393c3759f
+            26/
+                07631d9fdb1da3be28e533abbfa2027dd1e84f
             75/
                 5b430640a178e14a4fd095b428bf037bc058e7
             44/
@@ -127,6 +154,9 @@ marvinmtz-website/
             info/
                 commit-graph
                 packs
+            91/
+                28db599ec07214c12d3001d0b20addda0712b7
+                a3aba57f2bc39bd254712f6ad2f2d0293c28c0
             96/
                 de0e7e3d7c83dbf59d79000d6beba9f776f9ee
                 67a4e60f7e8c1bcab336486b443afb2f156e37
@@ -139,24 +169,50 @@ marvinmtz-website/
                 903c333bef959d677d285f5d532197e5645442
             55/
                 6d75c2ca250aca203019861e7338149d6ece3f
+            63/
+                e42da8ef6b8858f7bff99fc531affe275d092c
+            0f/
+                06d4ae7f5bf479e89f80353cf3f59b5057b03e
             64/
                 155e0967155e01e31aecd988b00ed2cffeecef
+            90/
+                9d74bf330843e873cc2ca7eaa050290e5ab042
             d3/
                 62d45ba147ee3f66e98edb75fda5ff2f7e2b06
+            d2/
+                ef67d0165be47a1a2cdbfa16964be0f1f9a466
+            b7/
+                153856d04ca377992d3b8fd3456f874b9491e8
             db/
                 faa416c5063b7b1721a1170ccaab651b68271a
+            a8/
+                fc8a54477259e956fcb107a7ef43e5cf740731
             de/
                 398a7459e8bec8d80332a09c2060448114a3d5
             a1/
                 8430f418477c7a6d0f0fdfcbf005f5b17cc16c
             c3/
                 2b4798a5f498090db8f75ec97d30bab76611b7
+            c4/
+                027994af55547dd32a37fd87141e32d94c7a3a
             c5/
                 07e39c50a97c54b04c8e70d68634d4ec591414
+            c2/
+                4bca32cbdda40c9e3def700bba6dfa2ae3c65b
             f6/
                 6c9a7f7deb413e8ad1e9ae88f3b7ebbc198f50
             f1/
                 aafc9c90f12d6f996a7e278feb5f36120a5f69
+            ce/
+                75701abfcdfaa94757fd66613070ecc5c9d756
+            46/
+                fa40c961ab2d9e147e74e7203ba8762de16e40
+            2c/
+                a6b731ef5ff282d891c62e2d13b655cd55f3a0
+            79/
+                b5e671b90a65112a4740ecffc755e27c51b568
+            2d/
+                67ac5213f56f6941a6ee44a606d9dd10bd00bb
             1e/
                 7030dc1a2f3b55c2302cfc65c46ff748858461
                 b9b5b0d0d5cceb02519f58006ce171180e86b2
@@ -164,12 +220,23 @@ marvinmtz-website/
                 b70b9b230d8bd0fccb699996fa776a52a27d9c
                 0806ffbf0a76fe8d5329c639950bcb03cdef55
                 9a0b5ea0946b087e92d10f4ad2eb03abbb9eea
+            23/
+                81610de40e242f81808d823852d3173d2cbef1
+            8d/
+                5241385e9534b54c9cec5ef2d55499af01d021
             12/
+                f602a1a65237f9c10579ab00759e540a3014ec
                 6b278a19ad1ad2e85b7444f8648667c7eafbb3
+            85/
+                09e29007b7cb658500bb56509797182157d0f3
             71/
                 f06f299d1fb91c4929a9e0d828107bfbf57395
+            82/
+                5fdf9adf97502d3316b7f24cd67b148c425aa5
             78/
                 01c93c3b4a76e1dba0476b765756bc64715590
+            13/
+                246255760931213ff6472e81ce18fba6df8604
             14/
                 50456bc7a0adc391a57910fdd6431836913d68
         info/
@@ -226,7 +293,7 @@ Content:
 <body>
     <header>
         <nav class="navbar">
-            <div class="brand">MarvinMTZ</div>
+            <a href="index.html" class="brand">MarvinMTZ</a>
             <ul class="nav-menu">
                 <li><a href="#" class="active">Home</a></li>
                 <li><a href="#about">About</a></li>
@@ -272,18 +339,16 @@ Content:
             </div>
           </section>
 
-        <section id="about" class="section about">
-            <div class="container">
-                <h2>About Marvin</h2>
-                <div class="about-content">
-                    <img src="images/profile-picture.jpg" alt="Marvin J. Largo" class="profile-picture">
-                    <div class="about-text">
-                        <p>👷🏻‍♂️ <strong>Hello! I'm Marvin J. Largo, a skilled Colombian Civil Engineer based in Ontario, Canada.</strong> With experience in construction estimation and project management, I specialize in translating complex project requirements into actionable plans. Fluent in English, Spanish, and conversational in French, I'm dedicated to delivering projects on time and within budget, while ensuring the highest standards of quality and efficiency.</p>
-                        
-                        <p>🏗️ With over five years of expertise in construction, I specialize in making complex plans both efficient and standout. My passion extends beyond the technical aspects of engineering—I thrive on continuous learning and actively engage in volunteer work. Whether it's delving into the latest design innovations or participating in community projects, I'm all about turning challenges into opportunities with a dash of fun.</p>
-                        
-                        <a href="pages/resume.html" class="cta-button">View Full Resume</a>
-                    </div>
+          <section id="about" class="section about">
+            <h2>About Marvin</h2>
+            <div class="about-content">
+                <img src="images/profile-picture.jpg" alt="Marvin J. Largo" class="profile-picture">
+                <div class="about-text">
+                    <p>👷🏻‍♂️ <strong>Hello! I'm Marvin J. Largo, a skilled Colombian Civil Engineer based in Ontario, Canada.</strong> With experience in construction estimation and project management, I specialize in translating complex project requirements into actionable plans. Fluent in English, Spanish, and conversational in French, I'm dedicated to delivering projects on time and within budget, while ensuring the highest standards of quality and efficiency.</p>
+                    
+                    <p>🏗️ With over five years of expertise in construction, I specialize in making complex plans both efficient and standout. My passion extends beyond the technical aspects of engineering—I thrive on continuous learning and actively engage in volunteer work. Whether it's delving into the latest design innovations or participating in community projects, I'm all about turning challenges into opportunities with a dash of fun.</p>
+                    
+                    <a href="pages/resume.html" class="cta-button">View Full Resume</a>
                 </div>
             </div>
         </section>
@@ -503,6 +568,7 @@ p {
 /* About section */
 .about-content {
     display: flex;
+    flex-direction: column;
     align-items: center;
     gap: 2rem;
 }
@@ -512,6 +578,10 @@ p {
     height: 200px;
     border-radius: 50%;
     object-fit: cover;
+}
+
+.about-text {
+    text-align: left;
 }
 
 /* Blog section */
@@ -624,21 +694,25 @@ header {
     z-index: 100;
 }
 
+/* Navbar styles */
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 1rem;
+    background-color: #f4f4f4;
 }
 
 .brand {
     font-size: 1.5rem;
     font-weight: bold;
     color: #3498db;
+    text-decoration: none;
 }
 
 .nav-menu {
     display: flex;
-    list-style-type: none;
+    list-style: none;
 }
 
 .nav-menu li {
@@ -670,7 +744,7 @@ header {
     width: 25px;
     height: 3px;
     margin: 5px auto;
-    transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease;
     background-color: #333;
 }
 
@@ -678,7 +752,7 @@ header {
     .nav-menu {
         position: fixed;
         left: -100%;
-        top: 4rem;
+        top: 5rem;
         flex-direction: column;
         background-color: #f4f4f4;
         width: 100%;
@@ -710,6 +784,24 @@ header {
     .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
+}
+/* Podcast section styles */
+.podcast {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.soundcloud-player {
+    margin-top: 15px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.soundcloud-player iframe {
+    display: block;
+    max-width: 100%;
 }
 
 ==================================================
@@ -843,11 +935,17 @@ document.addEventListener('DOMContentLoaded', () => {
             
             const name = contactForm.querySelector('#name').value.trim();
             const email = contactForm.querySelector('#email').value.trim();
+            const subject = contactForm.querySelector('#subject').value.trim();
             const message = contactForm.querySelector('#message').value.trim();
             
-            if (name && email && message) {
-                console.log('Form submitted:', { name, email, message });
-                alert('Thank you for your message! I\'ll get back to you soon.');
+            if (name && email && subject && message) {
+                // Construct the mailto link
+                const mailtoLink = `mailto:info@marvinmtz.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`)}`;
+                
+                // Open the user's default email client
+                window.location.href = mailtoLink;
+
+                alert('Thank you for your message! Your default email client should open with a pre-filled email. Please send the email to complete your message submission.');
                 contactForm.reset();
             } else {
                 alert('Please fill in all fields.');
@@ -919,13 +1017,19 @@ Content:
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
+        <nav class="navbar">
+            <a href="../index.html" class="brand">MarvinMTZ</a>
+            <ul class="nav-menu">
                 <li><a href="../index.html">Home</a></li>
                 <li><a href="../index.html#about">About</a></li>
                 <li><a href="../index.html#blog">Blog</a></li>
                 <li><a href="../pages/contact.html">Contact</a></li>
             </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
         </nav>
     </header>
 
@@ -938,6 +1042,18 @@ Content:
                 <h2>Introduction</h2>
                 <p>The relationship between theoretical advancements and their practical applications often spans decades, centuries, or even millennia. Historical examples demonstrate that theoretical insights and inventions can precede their practical utilization by significant time periods. This article explores several instances of such latency, reinforcing the argument that contemporary theoretical physics, despite seeming impractical now, may lead to groundbreaking applications in the future.</p>
             </section>
+            
+            <!-- Add the podcast -->
+            <section id="podcast" class="section podcast">
+                <h2>Listen to the Podcast</h2>
+                <p>Prefer to listen? Check out the podcast version of this article:</p>
+                <div class="soundcloud-player">
+                    <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+                        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/marvin-largo-36252830/the-latency-of-scientific-knowledge-and-technological-application&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+                </div>
+            </section>
+
+            <section id="case-studies" class="section case-studies">
 
             <section id="case-studies" class="section case-studies">
                 <h2>Case Studies of Delayed Application</h2>
@@ -1134,6 +1250,18 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/.DS_Store
 
 ==================================================
 
+File: .git/objects/61/1a1715ba497dc4c4ee855d9454df017c2472cb
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/61/1a1715ba497dc4c4ee855d9454df017c2472cb
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/95/277b62923d7c2916d7fcd53c19d074bd313d00
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/95/277b62923d7c2916d7fcd53c19d074bd313d00
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/92/63569877e881fbd181f48259c445b3460591a4
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/92/63569877e881fbd181f48259c445b3460591a4
 (Binary file or unsupported format)
@@ -1142,6 +1270,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/92/635698
 
 File: .git/objects/92/8fce9446b819b4db837fa592baa232b1666759
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/92/8fce9446b819b4db837fa592baa232b1666759
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/68/1da2cc2e3bf33440c0e866ca5376727e27a015
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/68/1da2cc2e3bf33440c0e866ca5376727e27a015
 (Binary file or unsupported format)
 
 ==================================================
@@ -1160,6 +1294,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/3b/4e1419
 
 File: .git/objects/9e/7983e81a4048934a579545044e4650f1213ffa
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/9e/7983e81a4048934a579545044e4650f1213ffa
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/6a/426f76b214e2a24cc59e2626ac0f48909217da
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/6a/426f76b214e2a24cc59e2626ac0f48909217da
 (Binary file or unsupported format)
 
 ==================================================
@@ -1188,6 +1328,30 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/67/fab386
 
 ==================================================
 
+File: .git/objects/94/3aea28712b6e3e9f26bf2b3248de2eb152e7ab
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/94/3aea28712b6e3e9f26bf2b3248de2eb152e7ab
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/60/35121315dc52a1f827b0a5e40079745d0e50d7
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/60/35121315dc52a1f827b0a5e40079745d0e50d7
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/9d/47a8094ac7ad5f42289ae47d50e146a97f2bc6
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/9d/47a8094ac7ad5f42289ae47d50e146a97f2bc6
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/02/442e4368c33e603ecc141cb3504d7e59e7866d
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/02/442e4368c33e603ecc141cb3504d7e59e7866d
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/a3/c1a06ced7eba5548a7fcd186893a9f8d8e53c0
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a3/c1a06ced7eba5548a7fcd186893a9f8d8e53c0
 (Binary file or unsupported format)
@@ -1200,8 +1364,20 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d9/f8214e
 
 ==================================================
 
+File: .git/objects/df/f666fb7c2838014cdb0528880e5a12e2d8959f
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/df/f666fb7c2838014cdb0528880e5a12e2d8959f
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/a2/a93fbb907b38fc0ae729f5b3a56696cba72fce
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a2/a93fbb907b38fc0ae729f5b3a56696cba72fce
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/e5/407b371da0fa899d93dab522879718400c4773
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/e5/407b371da0fa899d93dab522879718400c4773
 (Binary file or unsupported format)
 
 ==================================================
@@ -1224,6 +1400,18 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c0/19ceb5
 
 ==================================================
 
+File: .git/objects/fd/dca6bb38e8a5df4b75ed7c4c35a992fdda1688
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/fd/dca6bb38e8a5df4b75ed7c4c35a992fdda1688
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/c1/22b0ce249ae62b1fc42ff2a6d4ead97381462a
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c1/22b0ce249ae62b1fc42ff2a6d4ead97381462a
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/c1/aec97f976305a7ce3ef80b5512a0733667ccc3
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c1/aec97f976305a7ce3ef80b5512a0733667ccc3
 (Binary file or unsupported format)
@@ -1232,6 +1420,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c1/aec97f
 
 File: .git/objects/18/5b06164e12f1573cd509f3726b6ad856c0186f
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/18/5b06164e12f1573cd509f3726b6ad856c0186f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/27/7e45948fedf2aa385a6e44d73e41bd462a96ef
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/27/7e45948fedf2aa385a6e44d73e41bd462a96ef
 (Binary file or unsupported format)
 
 ==================================================
@@ -1250,6 +1444,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/pack/pack
 
 File: .git/objects/7c/3b11144681c83e915d567517be5c496ab6d887
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/7c/3b11144681c83e915d567517be5c496ab6d887
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/73/0d80d3fae49b0f360f12af180229aeda1fd79c
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/73/0d80d3fae49b0f360f12af180229aeda1fd79c
 (Binary file or unsupported format)
 
 ==================================================
@@ -1274,6 +1474,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/7b/b5a66e
 
 File: .git/objects/8f/dcba6b40ea984aa8e5d48ea6aab25393c3759f
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/8f/dcba6b40ea984aa8e5d48ea6aab25393c3759f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/26/07631d9fdb1da3be28e533abbfa2027dd1e84f
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/26/07631d9fdb1da3be28e533abbfa2027dd1e84f
 (Binary file or unsupported format)
 
 ==================================================
@@ -1344,6 +1550,18 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/info/pack
 
 ==================================================
 
+File: .git/objects/91/28db599ec07214c12d3001d0b20addda0712b7
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/91/28db599ec07214c12d3001d0b20addda0712b7
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/91/a3aba57f2bc39bd254712f6ad2f2d0293c28c0
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/91/a3aba57f2bc39bd254712f6ad2f2d0293c28c0
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/96/de0e7e3d7c83dbf59d79000d6beba9f776f9ee
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/96/de0e7e3d7c83dbf59d79000d6beba9f776f9ee
 (Binary file or unsupported format)
@@ -1386,8 +1604,26 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/55/6d75c2
 
 ==================================================
 
+File: .git/objects/63/e42da8ef6b8858f7bff99fc531affe275d092c
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/63/e42da8ef6b8858f7bff99fc531affe275d092c
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/0f/06d4ae7f5bf479e89f80353cf3f59b5057b03e
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/0f/06d4ae7f5bf479e89f80353cf3f59b5057b03e
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/64/155e0967155e01e31aecd988b00ed2cffeecef
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/64/155e0967155e01e31aecd988b00ed2cffeecef
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/90/9d74bf330843e873cc2ca7eaa050290e5ab042
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/90/9d74bf330843e873cc2ca7eaa050290e5ab042
 (Binary file or unsupported format)
 
 ==================================================
@@ -1398,8 +1634,26 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d3/62d45b
 
 ==================================================
 
+File: .git/objects/d2/ef67d0165be47a1a2cdbfa16964be0f1f9a466
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d2/ef67d0165be47a1a2cdbfa16964be0f1f9a466
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/b7/153856d04ca377992d3b8fd3456f874b9491e8
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/b7/153856d04ca377992d3b8fd3456f874b9491e8
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/db/faa416c5063b7b1721a1170ccaab651b68271a
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/db/faa416c5063b7b1721a1170ccaab651b68271a
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/a8/fc8a54477259e956fcb107a7ef43e5cf740731
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a8/fc8a54477259e956fcb107a7ef43e5cf740731
 (Binary file or unsupported format)
 
 ==================================================
@@ -1422,8 +1676,20 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c3/2b4798
 
 ==================================================
 
+File: .git/objects/c4/027994af55547dd32a37fd87141e32d94c7a3a
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c4/027994af55547dd32a37fd87141e32d94c7a3a
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/c5/07e39c50a97c54b04c8e70d68634d4ec591414
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c5/07e39c50a97c54b04c8e70d68634d4ec591414
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/c2/4bca32cbdda40c9e3def700bba6dfa2ae3c65b
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c2/4bca32cbdda40c9e3def700bba6dfa2ae3c65b
 (Binary file or unsupported format)
 
 ==================================================
@@ -1436,6 +1702,36 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/f6/6c9a7f
 
 File: .git/objects/f1/aafc9c90f12d6f996a7e278feb5f36120a5f69
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/f1/aafc9c90f12d6f996a7e278feb5f36120a5f69
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/ce/75701abfcdfaa94757fd66613070ecc5c9d756
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/ce/75701abfcdfaa94757fd66613070ecc5c9d756
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/46/fa40c961ab2d9e147e74e7203ba8762de16e40
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/46/fa40c961ab2d9e147e74e7203ba8762de16e40
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/2c/a6b731ef5ff282d891c62e2d13b655cd55f3a0
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/2c/a6b731ef5ff282d891c62e2d13b655cd55f3a0
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/79/b5e671b90a65112a4740ecffc755e27c51b568
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/79/b5e671b90a65112a4740ecffc755e27c51b568
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/2d/67ac5213f56f6941a6ee44a606d9dd10bd00bb
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/2d/67ac5213f56f6941a6ee44a606d9dd10bd00bb
 (Binary file or unsupported format)
 
 ==================================================
@@ -1470,8 +1766,32 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/9a0b5e
 
 ==================================================
 
+File: .git/objects/23/81610de40e242f81808d823852d3173d2cbef1
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/23/81610de40e242f81808d823852d3173d2cbef1
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/8d/5241385e9534b54c9cec5ef2d55499af01d021
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/8d/5241385e9534b54c9cec5ef2d55499af01d021
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/12/f602a1a65237f9c10579ab00759e540a3014ec
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/12/f602a1a65237f9c10579ab00759e540a3014ec
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/12/6b278a19ad1ad2e85b7444f8648667c7eafbb3
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/12/6b278a19ad1ad2e85b7444f8648667c7eafbb3
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/85/09e29007b7cb658500bb56509797182157d0f3
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/85/09e29007b7cb658500bb56509797182157d0f3
 (Binary file or unsupported format)
 
 ==================================================
@@ -1482,8 +1802,20 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/71/f06f29
 
 ==================================================
 
+File: .git/objects/82/5fdf9adf97502d3316b7f24cd67b148c425aa5
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/82/5fdf9adf97502d3316b7f24cd67b148c425aa5
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/78/01c93c3b4a76e1dba0476b765756bc64715590
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/78/01c93c3b4a76e1dba0476b765756bc64715590
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/13/246255760931213ff6472e81ce18fba6df8604
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/13/246255760931213ff6472e81ce18fba6df8604
 (Binary file or unsupported format)
 
 ==================================================
@@ -1640,13 +1972,19 @@ Content:
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
+        <nav class="navbar">
+            <a href="../index.html" class="brand">MarvinMTZ</a>
+            <ul class="nav-menu">
                 <li><a href="../index.html">Home</a></li>
                 <li><a href="../index.html#about">About</a></li>
                 <li><a href="../index.html#blog">Blog</a></li>
-                <li><a href="contact.html" class="active">Contact</a></li>
+                <li><a href="../pages/contact.html">Contact</a></li>
             </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
         </nav>
     </header>
 
@@ -1756,13 +2094,19 @@ Content:
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
+        <nav class="navbar">
+            <a href="../index.html" class="brand">MarvinMTZ</a>
+            <ul class="nav-menu">
                 <li><a href="../index.html">Home</a></li>
                 <li><a href="../index.html#about">About</a></li>
                 <li><a href="../index.html#blog">Blog</a></li>
-                <li><a href="contact.html" class="active">Contact</a></li>
+                <li><a href="../pages/contact.html">Contact</a></li>
             </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
         </nav>
     </header>
 

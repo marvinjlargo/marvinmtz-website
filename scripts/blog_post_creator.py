@@ -4,6 +4,7 @@ import os
 from datetime import datetime
 import shutil
 import re
+import json
 
 class BlogPostCreator:
     def __init__(self, master):
@@ -12,6 +13,7 @@ class BlogPostCreator:
         master.geometry("800x900")
 
         self.uploaded_images = []
+        self.image_sources = {}
         self.create_widgets()
 
     def create_widgets(self):
@@ -55,11 +57,17 @@ class BlogPostCreator:
         image_dropdown = ttk.Combobox(section_frame, textvariable=image_var, values=["No image"])
         image_dropdown.pack()
 
+        image_source_label = ttk.Label(section_frame, text="Image Source:")
+        image_source_label.pack()
+        image_source_entry = ttk.Entry(section_frame, width=60)
+        image_source_entry.pack()
+
         self.sections.append({
             "title": title_entry,
             "content": content_text,
             "image": image_var,
-            "dropdown": image_dropdown
+            "dropdown": image_dropdown,
+            "image_source": image_source_entry
         })
 
     def upload_images(self):
@@ -98,8 +106,14 @@ class BlogPostCreator:
         # Create image directory and copy images
         img_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "images", "blog", slug)
         os.makedirs(img_dir, exist_ok=True)
-        for img in self.uploaded_images:
-            shutil.copy(img, img_dir)
+        for i, img in enumerate(self.uploaded_images):
+            new_filename = f"{slug}-{i+1}{os.path.splitext(img)[1]}"
+            shutil.copy(img, os.path.join(img_dir, new_filename))
+            self.image_sources[new_filename] = self.sections[i]["image_source"].get()
+
+        # Save image sources
+        with open(os.path.join(img_dir, "image_sources.json"), "w") as f:
+            json.dump(self.image_sources, f)
 
         # Update index.html
         self.update_index_html(title, slug, date)
@@ -135,7 +149,7 @@ class BlogPostCreator:
             <h1>{title}</h1>
             <p>By Marvin J. Largo | Published: {date}</p>
 """
-        for section in self.sections:
+        for i, section in enumerate(self.sections):
             section_title = section["title"].get()
             section_content = section["content"].get("1.0", tk.END).strip()
             image = section["image"].get()
@@ -143,8 +157,10 @@ class BlogPostCreator:
             if section_title:
                 content += f"<h2>{section_title}</h2>\n"
             if image != "No image":
-                img_path = f"../images/blog/{slug}/{image}"
+                img_filename = f"{slug}-{i+1}{os.path.splitext(image)[1]}"
+                img_path = f"../images/blog/{slug}/{img_filename}"
                 content += f'<img src="{img_path}" alt="{image}" style="max-width: 100%; height: auto;">\n'
+                content += f'<p class="image-source">Source: {self.image_sources[img_filename]}</p>\n'
             content += f"<p>{section_content}</p>\n"
 
         content += """
