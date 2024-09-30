@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .bg { fill: #001f3f; }
+    .globe { fill: #7FDBFF; }
+    .m-shape { fill: none; stroke: #ffffff; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  
+  <circle cx="32" cy="32" r="32" class="bg"/>
+  <circle cx="32" cy="32" r="28" class="globe"/>
+  <path d="M16,44 L24,20 L32,44 L40,20 L48,44" class="m-shape"/>
+</svg>

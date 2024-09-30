@@ -10,6 +10,14 @@ marvinmtz-website/
     images/
         .DS_Store
         profile-picture.jpg
+        blog/
+            5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/
+                5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-1.jpeg
+                image_sources.json
+                5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-3.jpeg
+                5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-5.jpeg
+                5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-2.jpg
+                5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-4.jpeg
         the-latency-of-scientific-knowledge/
             antikythera-mechanism.jpg
             Herons-steam-engine.png
@@ -29,6 +37,7 @@ marvinmtz-website/
         beam-calculator/
             calculator.js
     blog/
+        5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs.html
         .DS_Store
         the-latency-of-scientific-knowledge.html
     scripts/
@@ -64,8 +73,12 @@ marvinmtz-website/
             .DS_Store
             61/
                 1a1715ba497dc4c4ee855d9454df017c2472cb
+            0d/
+                636aa05b4bb954405dde5e8d3e11f58ed33476
             95/
                 277b62923d7c2916d7fcd53c19d074bd313d00
+            59/
+                b0beacfb1568fb2a88ba0dd1b1df1c5e26ece2
             92/
                 63569877e881fbd181f48259c445b3460591a4
                 8fce9446b819b4db837fa592baa232b1666759
@@ -80,10 +93,14 @@ marvinmtz-website/
             6a/
                 426f76b214e2a24cc59e2626ac0f48909217da
                 6edba5e9a7d902e6fca13e5b2ea7f236880b78
+            32/
+                2d0bc9ade075ccf873b0865abc0f953794b16b
             35/
                 5461b6716c731eb0182db6f0c84b098d560d4f
             69/
                 ff67a7f4e245aac5aff44f52096ca070d29755
+            3d/
+                a438d8d7b2a6ed0428aab4276936b3973d7dec
             67/
                 fab386312e0fc215996170b9da5fba78bf123b
             94/
@@ -92,16 +109,32 @@ marvinmtz-website/
                 35121315dc52a1f827b0a5e40079745d0e50d7
             9d/
                 47a8094ac7ad5f42289ae47d50e146a97f2bc6
+            9c/
+                274a75056123d7d77045bc765c3393f89a179e
             02/
                 442e4368c33e603ecc141cb3504d7e59e7866d
             a3/
                 c1a06ced7eba5548a7fcd186893a9f8d8e53c0
+                c52f84ca50638d313b0ada6d5983a32abfe1b4
+            b2/
+                9114e6648b78555e98b7474bda363eba549439
             d9/
                 f8214e9d079278a6d500a653b4d80f98bdada8
+            d0/
+                dc3ab506e759703768699248a94f1b969c8d75
+                1bbadab667cfa8896732813a8f5bd7506b2204
             df/
                 f666fb7c2838014cdb0528880e5a12e2d8959f
+            da/
+                657f805d3b2cd4e7e3e4e7181b6626c2fcb604
             a2/
                 a93fbb907b38fc0ae729f5b3a56696cba72fce
+            d6/
+                6cb415a44223936cb1e97b2bd3510f6c8b4152
+                4c44514de0d5d2796402fd6b77847948ed6e61
+                b933890b7e8f61959f05598490e669bcd1859b
+            d8/
+                f06eabe8c39f42de5a6e68ad4b7e042c44c7e1
             e5/
                 407b371da0fa899d93dab522879718400c4773
                 9425914b7e8c821b6a7a57574dfa2e8abb6117
@@ -111,6 +144,8 @@ marvinmtz-website/
                 19ceb52e67e1f6aca26c2239d91cc6fcff9935
             fd/
                 dca6bb38e8a5df4b75ed7c4c35a992fdda1688
+            fb/
+                0f0cd68a7b96197bf768674967a3a1773e8749
             c1/
                 22b0ce249ae62b1fc42ff2a6d4ead97381462a
                 aec97f976305a7ce3ef80b5512a0733667ccc3
@@ -118,12 +153,14 @@ marvinmtz-website/
                 5b06164e12f1573cd509f3726b6ad856c0186f
             27/
                 7e45948fedf2aa385a6e44d73e41bd462a96ef
+                5a7a6604fa09c6a668520d98a3b2a91887693e
             pack/
                 pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.idx
                 pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.pack
             7c/
                 3b11144681c83e915d567517be5c496ab6d887
             73/
+                634f651771c9aad3b93ffb1315cdf16c3b31c8
                 0d80d3fae49b0f360f12af180229aeda1fd79c
             87/
                 8c159be1b80b4ee0ebc454292338ec36e559cc
@@ -133,6 +170,8 @@ marvinmtz-website/
                 b5a66e2728fce5f20dedab0a1c496563541fab
             8f/
                 dcba6b40ea984aa8e5d48ea6aab25393c3759f
+            8a/
+                8dd93d06fab12d5996f0dab77b82b4e4879dc1
             26/
                 07631d9fdb1da3be28e533abbfa2027dd1e84f
             75/
@@ -145,10 +184,15 @@ marvinmtz-website/
             43/
                 2cc45d0a01e1235d84e776ff9b179b3f7bd601
             88/
+                4faa2d917b6a285dd0373a7d22257498364772
                 9b4269da5d9e0dcba171373a1d79f8d00df7af
                 8687a7afb6fc0763f10c7274a6e3b04a64be43
+            6b/
+                f83888a9dec915cfba0a0bb846153c2facdcb9
             9a/
                 43eb99471e149a5e2003ab42588ea38f921ea5
+            5c/
+                e5b5d999942043fef9bef707652f7f7cedcab4
             09/
                 c1fbd210c02ced3e390ecbe19ea7cda087c29f
             info/
@@ -157,6 +201,8 @@ marvinmtz-website/
             91/
                 28db599ec07214c12d3001d0b20addda0712b7
                 a3aba57f2bc39bd254712f6ad2f2d0293c28c0
+            65/
+                1edfdf8ab3b8445f86908c4621f9199bb87ab3
             96/
                 de0e7e3d7c83dbf59d79000d6beba9f776f9ee
                 67a4e60f7e8c1bcab336486b443afb2f156e37
@@ -165,13 +211,18 @@ marvinmtz-website/
             30/
                 ce7b4129fc24cfabf2d07d4b6e8d322a954ae8
                 abf2b950abbf6c5ad5962f6c2fe1214e668eff
+            5b/
+                656bd70f9a7796adf7ced6b1a68bda23247f3d
             6c/
                 903c333bef959d677d285f5d532197e5645442
             55/
+                01a58fff07f0b7e1bdd8f5efb7c5a39ed85286
                 6d75c2ca250aca203019861e7338149d6ece3f
             63/
+                a2dc3072167c0cee264179eaf5d1809aa79e01
                 e42da8ef6b8858f7bff99fc531affe275d092c
             0f/
+                0953515da228551f70e93bbe6f1d08d72851c1
                 06d4ae7f5bf479e89f80353cf3f59b5057b03e
             64/
                 155e0967155e01e31aecd988b00ed2cffeecef
@@ -179,22 +230,34 @@ marvinmtz-website/
                 9d74bf330843e873cc2ca7eaa050290e5ab042
             d3/
                 62d45ba147ee3f66e98edb75fda5ff2f7e2b06
+                9e137891cf27966be9f1d4fc7920038546d7de
+            b6/
+                35895cf4f89264d27b18a0e2987ccda67b5b60
+            a9/
+                c28b48d65ce61b32b9b76bb42b8b81fed4b2ef
             d2/
                 ef67d0165be47a1a2cdbfa16964be0f1f9a466
+                7f696351da1f31e38d9419d78da40a101725ef
             b7/
                 153856d04ca377992d3b8fd3456f874b9491e8
             db/
                 faa416c5063b7b1721a1170ccaab651b68271a
             a8/
+                4ae3f1fe30b2ab21e33ec4e7fc3783746d60d5
                 fc8a54477259e956fcb107a7ef43e5cf740731
             de/
                 398a7459e8bec8d80332a09c2060448114a3d5
+                c9572ea847f7f7bde1d34fa1459732a6dc4b56
             a1/
                 8430f418477c7a6d0f0fdfcbf005f5b17cc16c
+                ac337bdf6b2a7af41f0ca26e8dc6472ceb3b08
+                a0e863cfcd652d575f5c1c2ed19f0aa8b7a716
             c3/
                 2b4798a5f498090db8f75ec97d30bab76611b7
             c4/
                 027994af55547dd32a37fd87141e32d94c7a3a
+            e6/
+                01e13fa2d2c96325513ecd973ccf555541e128
             c5/
                 07e39c50a97c54b04c8e70d68634d4ec591414
             c2/
@@ -205,6 +268,8 @@ marvinmtz-website/
                 aafc9c90f12d6f996a7e278feb5f36120a5f69
             ce/
                 75701abfcdfaa94757fd66613070ecc5c9d756
+            e0/
+                3c94c600d873beb1df7f4d9df6d5b5fb46c1d1
             46/
                 fa40c961ab2d9e147e74e7203ba8762de16e40
             2c/
@@ -212,17 +277,28 @@ marvinmtz-website/
             79/
                 b5e671b90a65112a4740ecffc755e27c51b568
             2d/
+                5b0cdca4b0551d1bfe339f466c71ed918ac28a
                 67ac5213f56f6941a6ee44a606d9dd10bd00bb
+            77/
+                14502d8f5b73c0293ceffaafb08f19bf99af1e
+            70/
+                d742db7bb528dcd387cbb209c715485a240765
             1e/
                 7030dc1a2f3b55c2302cfc65c46ff748858461
                 b9b5b0d0d5cceb02519f58006ce171180e86b2
+            4a/
+                d794e55f9406954de99358b5d18c205a1919fb
             24/
                 b70b9b230d8bd0fccb699996fa776a52a27d9c
                 0806ffbf0a76fe8d5329c639950bcb03cdef55
+                71c05f6a03761064e8b9b5072ebfa0980e8d7c
                 9a0b5ea0946b087e92d10f4ad2eb03abbb9eea
             23/
                 81610de40e242f81808d823852d3173d2cbef1
+            4f/
+                aa265665ff953ccf869d494c014f1484791967
             8d/
+                6da00443cb0fc081aac98bdb19a31868f56e2d
                 5241385e9534b54c9cec5ef2d55499af01d021
             12/
                 f602a1a65237f9c10579ab00759e540a3014ec
@@ -231,6 +307,8 @@ marvinmtz-website/
                 09e29007b7cb658500bb56509797182157d0f3
             71/
                 f06f299d1fb91c4929a9e0d828107bfbf57395
+            76/
+                3bc828645122442b5b7f3f2bee2a2d411e95f3
             82/
                 5fdf9adf97502d3316b7f24cd67b148c425aa5
             78/
@@ -238,6 +316,7 @@ marvinmtz-website/
             13/
                 246255760931213ff6472e81ce18fba6df8604
             14/
+                8dc7deb30ca8f45e494f49e32127e3905b557e
                 50456bc7a0adc391a57910fdd6431836913d68
         info/
             exclude
@@ -356,6 +435,13 @@ Content:
         <section id="blog" class="section">
             <h2>Latest Insights</h2>
             <div class="blog-grid">
+                <article>
+                    <h3>5 World-Changing Migrants Who Shaped Modern Society: From Einstein to Jobs
+</h3>
+                    <p>Explores how the migration of five individuals transformed global industries, from science to technology, leaving a lasting impact on modern society.</p>
+                    <a href="blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs.html" class="read-more">Read More</a>
+                </article>
+
                 <article>
                     <h3>The Latency of Scientific Knowledge and Technological Application</h3>
                     <p>Explores how scientific advancements often take decades or even centuries before practical applications are realized</p>
@@ -818,6 +904,42 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/profile-picture
 
 ==================================================
 
+File: images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-1.jpeg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-1.jpeg
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/image_sources.json
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/image_sources.json
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-3.jpeg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-3.jpeg
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-5.jpeg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-5.jpeg
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-2.jpg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-2.jpg
+(Binary file or unsupported format)
+
+==================================================
+
+File: images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-4.jpeg
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-4.jpeg
+(Binary file or unsupported format)
+
+==================================================
+
 File: images/the-latency-of-scientific-knowledge/antikythera-mechanism.jpg
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/images/the-latency-of-scientific-knowledge/antikythera-mechanism.jpg
 (Binary file or unsupported format)
@@ -993,6 +1115,141 @@ Content:
 File: projects/beam-calculator/calculator.js
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/projects/beam-calculator/calculator.js
 Content:
+
+
+==================================================
+
+File: blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs.html
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs.html
+Content:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5 World-Changing Migrants Who Shaped Modern Society: From Einstein to Jobs | Marvin J. Largo</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a href="../index.html" class="brand">MarvinMTZ</a>
+            <ul class="nav-menu">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../index.html#about">About</a></li>
+                <li><a href="../index.html#blog">Blog</a></li>
+                <li><a href="../pages/contact.html">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div role="main">
+            <h1>5 World-Changing Migrants Who Shaped Modern Society: From Einstein to Jobs</h1>
+            
+            <p>By Marvin J. Largo | Published: 2024-09-26</p>
+        
+            <div id="introduction" class="section">
+                <h2>Introduction</h2>
+                <p>Migration has been a powerful force throughout human history, molding the political, cultural, and economic landscapes of nations worldwide. The decision of a single individual or family to relocate can create a ripple effect that reverberates across time and space, fundamentally altering the course of history. In this article, we'll explore five extraordinary examples of how the migration of one person changed the world as we know it.</p>
+            </div>
+        
+            <div id="podcast" class="section">
+                <h2>Listen to the Podcast</h2>
+                <p>Prefer to listen? Check out the podcast version of this article:</p>
+                <div class="soundcloud-player">
+                <iframe width="100%" height="auto" scrolling="no" frameborder="no" allow="autoplay"
+                    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/marvin-largo-36252830/5-world-changing-migrants-who-shaped-modern-society&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+            </div>
+        </section>
+
+        <section id="content" class="section content">
+            <h2>1. Albert Einstein: The Genius Who Fled Nazi Germany</h2>
+            <img src="../images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-1.jpeg" alt="Albert Einstein" style="width:100%; height:auto;">
+            <p>Source: <a href="https://astrumpeople.com/albert-einstein-biography/" target="_blank">Astrum People - Albert Einstein Biography</a></p>
+            <p>In 1933, Albert Einstein, already renowned as one of the greatest minds in science, made a life-changing decision to leave Nazi Germany for the United States. This move had far-reaching consequences that extended well beyond his personal safety:</p>
+            <ul>
+                <li>Einstein's groundbreaking work on theoretical physics, including the theory of relativity, laid the foundation for numerous technological advancements.</li>
+                <li>His contributions to the Manhattan Project during World War II played a crucial role in developing the atomic bomb, reshaping global power dynamics.</li>
+                <li>Einstein's migration to the U.S. solidified America's position as a scientific powerhouse in the 20th century.</li>
+            </ul>
+
+            <h2>2. Abdulfattah Jandali: The Syrian Immigrant Who Fathered a Tech Revolution</h2>
+            <img src="../images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-2.jpg" alt="Steve Jobs" style="width:100%; height:auto;">
+            <p>Source: <a href="https://en.wikipedia.org/wiki/Steve_Jobs" target="_blank">Wikipedia - Steve Jobs</a></p>
+            <p>Few people know that Steve Jobs, the visionary co-founder of Apple, was the son of a Syrian immigrant named Abdulfattah Jandali. While Jobs was raised by adoptive parents, the indirect impact of his biological father's migration was monumental:</p>
+            <ul>
+                <li>Steve Jobs revolutionized personal computing, mobile technology, and digital entertainment through Apple's innovative products.</li>
+                <li>The iPhone, introduced in 2007, fundamentally changed how we communicate, work, and access information.</li>
+                <li>Jandali's migration to the U.S. for higher education inadvertently set the stage for Silicon Valley's dominance in the global tech industry.</li>
+            </ul>
+
+            <h2>3. Levi Strauss: The Bavarian Who Clothed America</h2>
+            <img src="../images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-3.jpeg" alt="Levi Strauss" style="width:100%; height:auto;">
+            <p>Source: <a href="https://milliondollarminds.medium.com/the-success-story-of-the-father-of-jeans-and-founder-of-levis-76847a40d1fc" target="_blank">Million Dollar Minds - The Success Story of the Father of Jeans and Founder of Levi's</a></p>
+            <p>Levi Strauss, a Jewish immigrant from Bavaria, moved to the United States in the mid-1800s seeking better opportunities. His journey to San Francisco during the California Gold Rush led to an invention that would become an American icon:</p>
+            <ul>
+                <li>Strauss created durable denim jeans to meet the needs of miners, revolutionizing workwear.</li>
+                <li>Levi's jeans became a symbol of American culture, worn by everyone from cowboys to rock stars.</li>
+                <li>Today, Levi Strauss & Co. is a global fashion powerhouse, all stemming from one immigrant's entrepreneurial spirit.</li>
+            </ul>
+
+            <h2>4. Joseph Pulitzer: The Hungarian Who Transformed American Journalism</h2>
+            <img src="../images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-4.jpeg" alt="Joseph Pulitzer" style="width:100%; height:auto;">
+            <p>Source: <a href="https://www.thoughtco.com/joseph-pulitzer-1773679" target="_blank">ThoughtCo - Joseph Pulitzer</a></p>
+            <p>Joseph Pulitzer's journey from penniless Hungarian immigrant to media mogul is a testament to the power of determination and vision:</p>
+            <ul>
+                <li>Pulitzer became one of the most influential figures in American journalism, championing investigative reporting and media ethics.</li>
+                <li>He established the Pulitzer Prize, which continues to honor excellence in journalism and the arts.</li>
+                <li>Pulitzer's impact on the Fourth Estate has shaped the standards of journalism not just in the U.S., but globally.</li>
+            </ul>
+
+            <h2>5. Nikola Tesla: The Serbian Genius Who Lit Up the World</h2>
+            <img src="../images/blog/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs/5-world-changing-migrants-who-shaped-modern-society-from-einstein-to-jobs-5.jpeg" alt="Nikola Tesla" style="width:100%; height:auto;">
+            <p>Source: <a href="https://niagara.insauga.com/famous-inventor-honoured-with-statues-on-both-sides-of-niagara-falls/" target="_blank">Insauga - Famous Inventor Honoured with Statues on Both Sides of Niagara Falls</a></p>
+            <p>In 1884, Serbian-born inventor Nikola Tesla migrated to the United States, bringing with him ideas that would illuminate the future:</p>
+            <ul>
+                <li>Tesla's development of alternating current (AC) electrical systems revolutionized power generation and distribution.</li>
+                <li>His inventions and patents laid the groundwork for modern electrical engineering.</li>
+                <li>Tesla's contributions continue to power our cities, homes, and industries, showcasing the lasting impact of his migration.</li>
+            </ul>
+
+            <h2>The Ripple Effect of Migration: Shaping Our World</h2>
+            <p>These stories highlight how migration is not just a personal journey but a catalyst for global change. The "butterfly effect" of these migrations demonstrates that a single decision to move can lead to:</p>
+            <ol>
+                <li>Groundbreaking scientific discoveries</li>
+                <li>Technological revolutions</li>
+                <li>Cultural shifts</li>
+                <li>Economic transformations</li>
+                <li>Advancements in human rights and freedom of expression</li>
+            </ol>
+            <p>Whether fleeing persecution, seeking education, or chasing opportunity, migrants have repeatedly proven to be powerful agents of change. Their journeys remind us that every movement, no matter how small, has the potential to reshape our world in profound and unexpected ways.</p>
+            <p>As we reflect on these world-changing migrations, we're reminded of the immense potential that lies within the movement of people across borders. In our increasingly interconnected world, the next world-changing migrant could be just around the corner, ready to make their mark on history.</p>
+        </section>
+
+
+    <footer>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/marvinjlargo/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.youtube.com/@MarvinMtzWorld" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://github.com/marvinjlargo" target="_blank"><i class="fab fa-github"></i></a>
+        </div>
+        <p>&copy; 2024 Marvin J. Largo | All Rights Reserved</p>
+    </footer>
+    <script src="../js/main.js"></script>
+</body>
+</html>
+
+
+
+
+
 
 
 ==================================================
@@ -1256,8 +1513,20 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/61/1a1715
 
 ==================================================
 
+File: .git/objects/0d/636aa05b4bb954405dde5e8d3e11f58ed33476
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/0d/636aa05b4bb954405dde5e8d3e11f58ed33476
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/95/277b62923d7c2916d7fcd53c19d074bd313d00
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/95/277b62923d7c2916d7fcd53c19d074bd313d00
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/59/b0beacfb1568fb2a88ba0dd1b1df1c5e26ece2
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/59/b0beacfb1568fb2a88ba0dd1b1df1c5e26ece2
 (Binary file or unsupported format)
 
 ==================================================
@@ -1310,6 +1579,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/6a/6edba5
 
 ==================================================
 
+File: .git/objects/32/2d0bc9ade075ccf873b0865abc0f953794b16b
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/32/2d0bc9ade075ccf873b0865abc0f953794b16b
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/35/5461b6716c731eb0182db6f0c84b098d560d4f
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/35/5461b6716c731eb0182db6f0c84b098d560d4f
 (Binary file or unsupported format)
@@ -1318,6 +1593,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/35/5461b6
 
 File: .git/objects/69/ff67a7f4e245aac5aff44f52096ca070d29755
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/69/ff67a7f4e245aac5aff44f52096ca070d29755
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/3d/a438d8d7b2a6ed0428aab4276936b3973d7dec
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/3d/a438d8d7b2a6ed0428aab4276936b3973d7dec
 (Binary file or unsupported format)
 
 ==================================================
@@ -1346,6 +1627,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/9d/47a809
 
 ==================================================
 
+File: .git/objects/9c/274a75056123d7d77045bc765c3393f89a179e
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/9c/274a75056123d7d77045bc765c3393f89a179e
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/02/442e4368c33e603ecc141cb3504d7e59e7866d
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/02/442e4368c33e603ecc141cb3504d7e59e7866d
 (Binary file or unsupported format)
@@ -1358,8 +1645,32 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a3/c1a06c
 
 ==================================================
 
+File: .git/objects/a3/c52f84ca50638d313b0ada6d5983a32abfe1b4
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a3/c52f84ca50638d313b0ada6d5983a32abfe1b4
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/b2/9114e6648b78555e98b7474bda363eba549439
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/b2/9114e6648b78555e98b7474bda363eba549439
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/d9/f8214e9d079278a6d500a653b4d80f98bdada8
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d9/f8214e9d079278a6d500a653b4d80f98bdada8
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d0/dc3ab506e759703768699248a94f1b969c8d75
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d0/dc3ab506e759703768699248a94f1b969c8d75
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d0/1bbadab667cfa8896732813a8f5bd7506b2204
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d0/1bbadab667cfa8896732813a8f5bd7506b2204
 (Binary file or unsupported format)
 
 ==================================================
@@ -1370,8 +1681,38 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/df/f666fb
 
 ==================================================
 
+File: .git/objects/da/657f805d3b2cd4e7e3e4e7181b6626c2fcb604
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/da/657f805d3b2cd4e7e3e4e7181b6626c2fcb604
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/a2/a93fbb907b38fc0ae729f5b3a56696cba72fce
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a2/a93fbb907b38fc0ae729f5b3a56696cba72fce
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d6/6cb415a44223936cb1e97b2bd3510f6c8b4152
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d6/6cb415a44223936cb1e97b2bd3510f6c8b4152
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d6/4c44514de0d5d2796402fd6b77847948ed6e61
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d6/4c44514de0d5d2796402fd6b77847948ed6e61
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d6/b933890b7e8f61959f05598490e669bcd1859b
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d6/b933890b7e8f61959f05598490e669bcd1859b
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d8/f06eabe8c39f42de5a6e68ad4b7e042c44c7e1
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d8/f06eabe8c39f42de5a6e68ad4b7e042c44c7e1
 (Binary file or unsupported format)
 
 ==================================================
@@ -1406,6 +1747,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/fd/dca6bb
 
 ==================================================
 
+File: .git/objects/fb/0f0cd68a7b96197bf768674967a3a1773e8749
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/fb/0f0cd68a7b96197bf768674967a3a1773e8749
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/c1/22b0ce249ae62b1fc42ff2a6d4ead97381462a
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c1/22b0ce249ae62b1fc42ff2a6d4ead97381462a
 (Binary file or unsupported format)
@@ -1430,6 +1777,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/27/7e4594
 
 ==================================================
 
+File: .git/objects/27/5a7a6604fa09c6a668520d98a3b2a91887693e
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/27/5a7a6604fa09c6a668520d98a3b2a91887693e
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/pack/pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.idx
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/pack/pack-2a18076ea1f8684df1dc62bd938dd87e72bf32af.idx
 (Binary file or unsupported format)
@@ -1444,6 +1797,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/pack/pack
 
 File: .git/objects/7c/3b11144681c83e915d567517be5c496ab6d887
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/7c/3b11144681c83e915d567517be5c496ab6d887
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/73/634f651771c9aad3b93ffb1315cdf16c3b31c8
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/73/634f651771c9aad3b93ffb1315cdf16c3b31c8
 (Binary file or unsupported format)
 
 ==================================================
@@ -1474,6 +1833,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/7b/b5a66e
 
 File: .git/objects/8f/dcba6b40ea984aa8e5d48ea6aab25393c3759f
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/8f/dcba6b40ea984aa8e5d48ea6aab25393c3759f
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/8a/8dd93d06fab12d5996f0dab77b82b4e4879dc1
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/8a/8dd93d06fab12d5996f0dab77b82b4e4879dc1
 (Binary file or unsupported format)
 
 ==================================================
@@ -1514,6 +1879,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/43/2cc45d
 
 ==================================================
 
+File: .git/objects/88/4faa2d917b6a285dd0373a7d22257498364772
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/88/4faa2d917b6a285dd0373a7d22257498364772
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/88/9b4269da5d9e0dcba171373a1d79f8d00df7af
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/88/9b4269da5d9e0dcba171373a1d79f8d00df7af
 (Binary file or unsupported format)
@@ -1526,8 +1897,20 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/88/8687a7
 
 ==================================================
 
+File: .git/objects/6b/f83888a9dec915cfba0a0bb846153c2facdcb9
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/6b/f83888a9dec915cfba0a0bb846153c2facdcb9
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/9a/43eb99471e149a5e2003ab42588ea38f921ea5
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/9a/43eb99471e149a5e2003ab42588ea38f921ea5
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/5c/e5b5d999942043fef9bef707652f7f7cedcab4
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/5c/e5b5d999942043fef9bef707652f7f7cedcab4
 (Binary file or unsupported format)
 
 ==================================================
@@ -1562,6 +1945,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/91/a3aba5
 
 ==================================================
 
+File: .git/objects/65/1edfdf8ab3b8445f86908c4621f9199bb87ab3
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/65/1edfdf8ab3b8445f86908c4621f9199bb87ab3
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/96/de0e7e3d7c83dbf59d79000d6beba9f776f9ee
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/96/de0e7e3d7c83dbf59d79000d6beba9f776f9ee
 (Binary file or unsupported format)
@@ -1592,8 +1981,20 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/30/abf2b9
 
 ==================================================
 
+File: .git/objects/5b/656bd70f9a7796adf7ced6b1a68bda23247f3d
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/5b/656bd70f9a7796adf7ced6b1a68bda23247f3d
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/6c/903c333bef959d677d285f5d532197e5645442
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/6c/903c333bef959d677d285f5d532197e5645442
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/55/01a58fff07f0b7e1bdd8f5efb7c5a39ed85286
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/55/01a58fff07f0b7e1bdd8f5efb7c5a39ed85286
 (Binary file or unsupported format)
 
 ==================================================
@@ -1604,8 +2005,20 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/55/6d75c2
 
 ==================================================
 
+File: .git/objects/63/a2dc3072167c0cee264179eaf5d1809aa79e01
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/63/a2dc3072167c0cee264179eaf5d1809aa79e01
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/63/e42da8ef6b8858f7bff99fc531affe275d092c
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/63/e42da8ef6b8858f7bff99fc531affe275d092c
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/0f/0953515da228551f70e93bbe6f1d08d72851c1
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/0f/0953515da228551f70e93bbe6f1d08d72851c1
 (Binary file or unsupported format)
 
 ==================================================
@@ -1634,8 +2047,32 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d3/62d45b
 
 ==================================================
 
+File: .git/objects/d3/9e137891cf27966be9f1d4fc7920038546d7de
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d3/9e137891cf27966be9f1d4fc7920038546d7de
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/b6/35895cf4f89264d27b18a0e2987ccda67b5b60
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/b6/35895cf4f89264d27b18a0e2987ccda67b5b60
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/a9/c28b48d65ce61b32b9b76bb42b8b81fed4b2ef
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a9/c28b48d65ce61b32b9b76bb42b8b81fed4b2ef
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/d2/ef67d0165be47a1a2cdbfa16964be0f1f9a466
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d2/ef67d0165be47a1a2cdbfa16964be0f1f9a466
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/d2/7f696351da1f31e38d9419d78da40a101725ef
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/d2/7f696351da1f31e38d9419d78da40a101725ef
 (Binary file or unsupported format)
 
 ==================================================
@@ -1652,6 +2089,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/db/faa416
 
 ==================================================
 
+File: .git/objects/a8/4ae3f1fe30b2ab21e33ec4e7fc3783746d60d5
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a8/4ae3f1fe30b2ab21e33ec4e7fc3783746d60d5
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/a8/fc8a54477259e956fcb107a7ef43e5cf740731
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a8/fc8a54477259e956fcb107a7ef43e5cf740731
 (Binary file or unsupported format)
@@ -1664,8 +2107,26 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/de/398a74
 
 ==================================================
 
+File: .git/objects/de/c9572ea847f7f7bde1d34fa1459732a6dc4b56
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/de/c9572ea847f7f7bde1d34fa1459732a6dc4b56
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/a1/8430f418477c7a6d0f0fdfcbf005f5b17cc16c
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a1/8430f418477c7a6d0f0fdfcbf005f5b17cc16c
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/a1/ac337bdf6b2a7af41f0ca26e8dc6472ceb3b08
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a1/ac337bdf6b2a7af41f0ca26e8dc6472ceb3b08
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/a1/a0e863cfcd652d575f5c1c2ed19f0aa8b7a716
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/a1/a0e863cfcd652d575f5c1c2ed19f0aa8b7a716
 (Binary file or unsupported format)
 
 ==================================================
@@ -1678,6 +2139,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c3/2b4798
 
 File: .git/objects/c4/027994af55547dd32a37fd87141e32d94c7a3a
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/c4/027994af55547dd32a37fd87141e32d94c7a3a
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/e6/01e13fa2d2c96325513ecd973ccf555541e128
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/e6/01e13fa2d2c96325513ecd973ccf555541e128
 (Binary file or unsupported format)
 
 ==================================================
@@ -1712,6 +2179,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/ce/75701a
 
 ==================================================
 
+File: .git/objects/e0/3c94c600d873beb1df7f4d9df6d5b5fb46c1d1
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/e0/3c94c600d873beb1df7f4d9df6d5b5fb46c1d1
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/46/fa40c961ab2d9e147e74e7203ba8762de16e40
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/46/fa40c961ab2d9e147e74e7203ba8762de16e40
 (Binary file or unsupported format)
@@ -1730,8 +2203,26 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/79/b5e671
 
 ==================================================
 
+File: .git/objects/2d/5b0cdca4b0551d1bfe339f466c71ed918ac28a
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/2d/5b0cdca4b0551d1bfe339f466c71ed918ac28a
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/2d/67ac5213f56f6941a6ee44a606d9dd10bd00bb
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/2d/67ac5213f56f6941a6ee44a606d9dd10bd00bb
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/77/14502d8f5b73c0293ceffaafb08f19bf99af1e
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/77/14502d8f5b73c0293ceffaafb08f19bf99af1e
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/70/d742db7bb528dcd387cbb209c715485a240765
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/70/d742db7bb528dcd387cbb209c715485a240765
 (Binary file or unsupported format)
 
 ==================================================
@@ -1748,6 +2239,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/1e/b9b5b0
 
 ==================================================
 
+File: .git/objects/4a/d794e55f9406954de99358b5d18c205a1919fb
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/4a/d794e55f9406954de99358b5d18c205a1919fb
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/24/b70b9b230d8bd0fccb699996fa776a52a27d9c
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/b70b9b230d8bd0fccb699996fa776a52a27d9c
 (Binary file or unsupported format)
@@ -1760,6 +2257,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/0806ff
 
 ==================================================
 
+File: .git/objects/24/71c05f6a03761064e8b9b5072ebfa0980e8d7c
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/71c05f6a03761064e8b9b5072ebfa0980e8d7c
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/24/9a0b5ea0946b087e92d10f4ad2eb03abbb9eea
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/9a0b5ea0946b087e92d10f4ad2eb03abbb9eea
 (Binary file or unsupported format)
@@ -1768,6 +2271,18 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/24/9a0b5e
 
 File: .git/objects/23/81610de40e242f81808d823852d3173d2cbef1
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/23/81610de40e242f81808d823852d3173d2cbef1
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/4f/aa265665ff953ccf869d494c014f1484791967
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/4f/aa265665ff953ccf869d494c014f1484791967
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/8d/6da00443cb0fc081aac98bdb19a31868f56e2d
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/8d/6da00443cb0fc081aac98bdb19a31868f56e2d
 (Binary file or unsupported format)
 
 ==================================================
@@ -1802,6 +2317,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/71/f06f29
 
 ==================================================
 
+File: .git/objects/76/3bc828645122442b5b7f3f2bee2a2d411e95f3
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/76/3bc828645122442b5b7f3f2bee2a2d411e95f3
+(Binary file or unsupported format)
+
+==================================================
+
 File: .git/objects/82/5fdf9adf97502d3316b7f24cd67b148c425aa5
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/82/5fdf9adf97502d3316b7f24cd67b148c425aa5
 (Binary file or unsupported format)
@@ -1816,6 +2337,12 @@ Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/78/01c93c
 
 File: .git/objects/13/246255760931213ff6472e81ce18fba6df8604
 Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/13/246255760931213ff6472e81ce18fba6df8604
+(Binary file or unsupported format)
+
+==================================================
+
+File: .git/objects/14/8dc7deb30ca8f45e494f49e32127e3905b557e
+Path: /Users/Johared/Documents/Projects/marvinmtz-website/.git/objects/14/8dc7deb30ca8f45e494f49e32127e3905b557e
 (Binary file or unsupported format)
 
 ==================================================
